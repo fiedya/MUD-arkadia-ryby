@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArkadiaRyby", "ArkadiaRyby\ArkadiaRyby.csproj", "{AB1F4701-0EC6-4666-B938-70C05B318F4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB1F4701-0EC6-4666-B938-70C05B318F4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB1F4701-0EC6-4666-B938-70C05B318F4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB1F4701-0EC6-4666-B938-70C05B318F4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB1F4701-0EC6-4666-B938-70C05B318F4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72CC5EA3-8AE5-4BFC-A72B-FB77432A89F7}
+	EndGlobalSection
+EndGlobal
