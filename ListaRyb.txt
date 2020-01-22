@@ -14,7 +14,7 @@ jesiotr;brazowoszara;lato;obok obawy;obawa;6300;36
 jesiotr;brazowoszara;lato;obok obawy;obawa;27000;38
 szczupak;ciemnozielona;lato;ostrorog;ostrorog;1900;150
 sum;wasata;lato;obawa;obawa;5400;105
-???;blekitnawa;lato;obawa,obawa,8000,93
+???;blekitnawa;lato;obawa;obawa;8000;93
 sum; wasata;lato;obawa;obawa;2100;104
 sum; wasata;lato;obawa;obawa;14000;76
 koryfena;blekitnawozielona;wiosna;obawa;obawa;7700;104
@@ -39,3 +39,16 @@ wegorz;wezowata;lato;ostrorog;ostrorog;6100;66
 okon;pregowana;lato;ostrorog;ostrorog;1400;130
 okon;pregowana;lato;ostrorog;ostrorog;2700;107
 okon;pregowana;lato;ostrorog;ostrorog;1600;160
+rdzawiec;brazowawa;lato;nad novigradem;ostrorog;3800;125
+barrakuda;zielonkawobrazowa;lato;nad novigradem;ostrorog;2300;124
+bielmik;jasnomiedziana;lato;nad novigradem;ostrorog;340;150
+bielmik;jasnomiedziana;lato;nad novigradem;ostrorog;450;141
+mietus;brazowawa;lato;stocznia;nadrzecze;6200;101
+wegorz;wezowata;lato;stocznia;nadrzecze;3700;62
+wegorz;wezowata;lato;stocznia;nadrzecze;1800;118
+szczupak;ciemnozielona;lato;grabowa buchta;ostrorog;2500;117
+mietus;brazowawa;lato;grabowa buchta;ostrorog;11000;119
+mietus;brazowawa;lato;grabowa buchta;ostrorog;7400;95
+mietus;brazowawa;lato;grabowa buchta;ostrorog;8000;114
+mietus;brazowawa;lato;grabowa buchta;ostrorog;3900;160
+mietus;brazowawa;lato;grabowa buchta;ostrorog;7400;119

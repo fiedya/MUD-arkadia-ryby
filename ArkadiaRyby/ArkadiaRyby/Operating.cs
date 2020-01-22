@@ -8,10 +8,10 @@ namespace ArkadiaRyby
 {
     class Operating
     {
-
-        public Operating()
+        List<Ryba> ryby;
+        public Operating(List<Ryba> ryby)
         {
-
+            this.ryby = ryby;
         }
 
         public void dodajRybe(List<Ryba> ryby)
@@ -68,6 +68,60 @@ namespace ArkadiaRyby
         public void WyswietlWszystkie(List<Ryba> ryby)
         {
             for (int i = 0; i < ryby.Count; i++) Console.WriteLine(ryby[i].OpiszRybe());
+        }
+
+        public void Menu(List<Ryba> ryby)
+        {
+            Console.WriteLine("1. Filtruj.");
+            Console.WriteLine("2. Srednia cena przefiltrowanych.");
+            Console.WriteLine("3. Srednia waga przefiltrowanych.");
+            Console.WriteLine("4. Wyswietl przefiltrowane.");
+            Console.WriteLine("5. Dodaj rybe.");
+            Console.WriteLine("e. Wyjscie.");
+            List<Ryba> noweR = ryby;
+            Statystyki stats = new Statystyki(noweR);
+
+            string choice = Console.ReadLine();
+            while (choice != "1" && choice != "2" && choice != "3" && choice != "4" && choice != "5"&& choice != "e")
+            {
+                choice = Console.ReadLine();
+            }
+
+            switch(choice)
+            {
+                case "1":
+                    Console.WriteLine("Od enterów po kolei: nazwa, opis, pora, gdzie zlowione i gdzie sprzedane.");
+                    string n = Console.ReadLine();
+                    string op = Console.ReadLine();
+                    string por = Console.ReadLine();
+                    string zl = Console.ReadLine();
+                    string sp = Console.ReadLine();
+                    noweR = stats.FiltrujStringi(ryby, n,op,por,zl,sp);
+                    Menu(noweR);
+                    break;
+                case "2":
+                    Console.WriteLine(stats.SredniaCena(noweR));
+                    Menu(noweR);
+                    break;
+                case "3":
+                    Console.WriteLine(stats.SredniaWaga(noweR));
+                    Menu(noweR);
+                    break;
+                case "4":
+                    WyswietlWszystkie(noweR);
+                    Menu(noweR);
+                    break;
+                case "5":
+                    dodajRybe(ryby);
+                    Menu(noweR);
+                    break;
+                case "e":
+                    Environment.Exit(0);
+
+                    break;
+
+            }
+             
         }
     }
 }

@@ -11,22 +11,16 @@ namespace ArkadiaRyby
     {
         static void Main(string[] args)
         {
-            Operating opera = new Operating();
             List<Ryba> ryby = new List<Ryba>();
+            Operating opera = new Operating(ryby);
             Statystyki stats = new Statystyki(ryby);
             zPliku(ryby, opera);
-            //Console.WriteLine(ryby.Count);
-            //for (int i = 0; i < 54; i++)
-            //{
-            //    opera.dodajRybe(ryby);
 
 
-            //    Console.WriteLine(ryby[0].OpiszRybe());
-            //   DoPliku(ryby);
-            // }
-            double sr = stats.SredniaWagaRyba("belona");
-            Console.WriteLine(sr);
-           // opera.WyswietlWszystkie(ryby);
+            opera.Menu(ryby);
+
+
+
             Console.ReadKey();
         }
 
@@ -63,6 +57,8 @@ namespace ArkadiaRyby
             while ((line = file.ReadLine()) != null)
             {
                string[] sTab = line.Split(przecinek);
+            //    for (int i = 0; i < sTab.Length; i++) Console.Write(sTab[i] + "\\");
+              //  Console.WriteLine();
                 opera.rybaZPliku(sTab, ryby);
             }
             file.Close();

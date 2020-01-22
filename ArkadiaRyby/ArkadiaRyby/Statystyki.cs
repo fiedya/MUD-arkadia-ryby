@@ -15,17 +15,6 @@ namespace ArkadiaRyby
         }
 
 
-
-        public List<Ryba> PoraRyba(string naz, string por)
-        {
-            List<Ryba> rybki = new List<Ryba>();
-            int n = ryby.Count;
-            for (int i = 0; i < n; i++)
-                if (ryby[i].nazwa == naz && ryby[i].pora == por) rybki.Add(ryby[i]);
-
-            return rybki;
-        }
-
         public List<Ryba> PorwWagi(double w, int mw) //0 mniejsze i 1 wieksze od w
         {
             List<Ryba> rybki = new List<Ryba>();
@@ -44,15 +33,10 @@ namespace ArkadiaRyby
             return rybki;
         }
 
-        public double SredniaWagaRyba(string nazw)
+        public double SredniaWaga(List<Ryba> rybki)
         {
-            List<Ryba> rybki = new List<Ryba>();
             double sr = 0;
-            int n = ryby.Count;
-            for (int i = 0; i < n; i++)
-            {
-                if (ryby[i].nazwa == nazw) rybki.Add(ryby[i]);
-            }
+
             int m = rybki.Count;
             for (int i = 0; i < m; i++) sr += rybki[i].waga;
 
@@ -60,20 +44,50 @@ namespace ArkadiaRyby
             return sr;
         }
 
-        public double SredniaCenaRyba(string nazw)
+        public double SredniaCena(List<Ryba> rybki)
         {
-            List<Ryba> rybki = new List<Ryba>();
+
             double sr = 0;
-            int n = ryby.Count;
-            for (int i = 0; i < n; i++)
-            {
-                if (ryby[i].nazwa == nazw) rybki.Add(ryby[i]);
-            }
             int m = rybki.Count;
             for (int i = 0; i < m; i++) sr += rybki[i].cenaKg;
 
             sr /= m;
             return sr;
+        }
+
+        public List<Ryba> FiltrujStringi(List<Ryba> rybki, string nazwa,
+            string opis, string pora, string gdzieZlowione, string gdzieSprzedane)
+        {
+            List<Ryba> lista = new List<Ryba>();
+
+
+            foreach (Ryba r in rybki)
+            {
+                if (nazwa == "" || r.nazwa == nazwa)
+                {
+                    if (opis == "" || r.opis == opis)
+                    {
+                        if (pora == "" || r.pora == pora)
+                        {
+                            if (gdzieZlowione == "" || r.gdzieZlowione == gdzieZlowione)
+                            {
+                                if (gdzieSprzedane == "" || r.gdzieSprzedane == gdzieSprzedane)
+                                {
+                                    lista.Add(r);
+                                }
+                                else break;
+                            }
+                            else break;
+                        }
+                        else break;
+                    }
+                    else break;
+                }
+                else break;
+            }
+  
+            return lista;
+
         }
 
     }
