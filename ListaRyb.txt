@@ -7,3 +7,28 @@ belona;ciemnoniebieska;lato;novigrad(port);ostrorog;690;166
 belona;ciemnoniebieska;lato;novigrad(port);ostrorog;560;141
 makrelosz;oliwkowosrebrzysta;lato;novigrad(port);ostrorog;4000;118
 makrelosz;oliwkowosrebrzysta;lato;novigrad(port);ostrorog;1600;209
+jesiotr;brazowoszara;lato;obok obawy;obawa;19000;36
+jesiotr;brazowoszara;lato;obok obawy;obawa;28000;34
+jesiotr;brazowoszara;lato;obok obawy;obawa;12000;48
+jesiotr;brazowoszara;lato;obok obawy;obawa;6300;36
+jesiotr;brazowoszara;lato;obok obawy;obawa;27000;38
+szczupak;ciemnozielona;lato;ostrorog;ostrorog;1900;150
+sum;wasata;lato;obawa;obawa;5400;105
+???;blekitnawa;lato;obawa,obawa,8000,93
+sum; wasata;lato;obawa;obawa;2100;104
+sum; wasata;lato;obawa;obawa;14000;76
+koryfena;blekitnawozielona;obawa;obawa;7700;104
+antias;czerwonawa;novigrad(port);ostrorog;3600;150
+antias;czerwonawa;novigrad(port);ostrorog;6500;98
+sierpnik;niebieskawa;novigrad(port);ostrorog;410;139
+pstrag;nakrapiana;piana;ostrorog;3800;222
+pstrag;nakrapiana;piana;ostrorog;2900;223
+pstrag;nakrapiana;piana;ostrorog;3000;211
+okon;pregowana;piana;ostrorog;2100;139
+okon;pregowana;piana;ostrorog;530;152
+okon;pregowana;piana;ostrorog;3200;152
+
+
+
+
+
