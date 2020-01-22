@@ -52,3 +52,33 @@ mietus;brazowawa;lato;grabowa buchta;ostrorog;7400;95
 mietus;brazowawa;lato;grabowa buchta;ostrorog;8000;114
 mietus;brazowawa;lato;grabowa buchta;ostrorog;3900;160
 mietus;brazowawa;lato;grabowa buchta;ostrorog;7400;119
+losos;oliwkowosrebrzysta;lato;wyzima;bialy most;3700;170
+losos;oliwkowosrebrzysta;lato;wyzima;bialy most;3900;100
+losos;oliwkowosrebrzysta;lato;wyzima;bialy most;2500;126
+ostrosz;zoltobrazowa;lato;wies zachod baccali;baccala;450;11
+ostrosz;zoltobrazowa;lato;wies zachod baccali;baccala;1000;11
+ostrosz;zoltobrazowa;lato;wies zachod baccali;baccala;560;14
+widlak;barwna;lato;wies zachod baccali;baccala;4500;66
+widlak;barwna;lato;wies zachod baccali;baccala;2800;65
+widlak;barwna;lato;wies zachod baccali;baccala;3200;109
+brama;zielonkawobrazowa;lato;baccala;baccala;2700;198
+brama;zielonkawobrazowa;lato;baccala;baccala;2200;172
+brama;zielonkawobrazowa;lato;baccala;baccala;4400;109
+bielmik;jasnomiedziana;lato;baccala;baccala;510;125
+???;blekitnawa;lato;obawa;obawa;1400;188
+sum;wasata;lato;obawa;obawa;13000;64
+szczupak;ciemnozielona;lato;obawa;obawa;3600;123
+szczupak;ciemnozielona;lato;obawa;obawa;3700;86
+szczupak;ciemnozielona;lato;cisoux;quenelles;900;129
+szczupak;ciemnozielona;lato;cisoux;quenelles;4300;100
+szczupak;ciemnozielona;lato;cisoux;quenelles;3200;90
+szczupak;ciemnozielona;lato;cisoux;quenelles;3400;136
+glowacica;zielonkawoszara;lato;bogenhafen;bogenhafen;3800;192
+glowacica;zielonkawoszara;lato;bogenhafen;bogenhafen;3000;168
+glowacica;zielonkawoszara;lato;bogenhafen;bogenhafen;2900;134
+glowacica;zielonkawoszara;lato;bogenhafen;bogenhafen;2800;236
+sum;wasata;lato;bogenhafen;bogenhafen;5500;89
+wegorz;wezowata;lato;bogenhafen;bogenhafen;3200;62
+wegorz;wezowata;lato;bogenhafen;bogenhafen;7600;58
+jesiotr;brazowoszara;lato;bogenhafen;bogenhafen;15000;46
+jesiotr;brazowoszara;lato;bogenhafen;bogenhafen;6500;49

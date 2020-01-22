@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[      3306,         83]
-NotebookOptionsPosition[      2878,         67]
-NotebookOutlinePosition[      3226,         82]
-CellTagsIndexPosition[      3183,         79]
+NotebookDataLength[      2435,         73]
+NotebookOptionsPosition[      2008,         57]
+NotebookOutlinePosition[      2356,         72]
+CellTagsIndexPosition[      2313,         69]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -35,34 +35,24 @@ Cell[BoxData[{
         RowBox[{"s", "*", "12"}], " ", "+", "m"}], ")"}], "/", "w"}], "]"}]}],
     ";"}], "\[IndentingNewLine]"}], "\[IndentingNewLine]", 
  RowBox[{"f", "[", 
-  RowBox[{"0", ",", "26", ",", "27", ",", "1.9"}], "]"}]}], "Input",
- CellChangeTimes->{{3.788690118787912*^9, 3.7886901323671055`*^9}, {
-  3.7886901948937235`*^9, 3.788690209271639*^9}, {3.7886902691380672`*^9, 
-  3.7886903107683086`*^9}, {3.78869034736038*^9, 3.788690355253801*^9}, {
-  3.788690421462432*^9, 3.78869043588247*^9}, {3.7886904710531836`*^9, 
-  3.788690476300136*^9}, {3.7886907588367643`*^9, 3.788690782476711*^9}, {
-  3.7886921673887987`*^9, 3.788692215567811*^9}, {3.7886922750718555`*^9, 
-  3.788692315233862*^9}, {3.7886936157293797`*^9, 3.7886936933981295`*^9}, {
-  3.788694498402033*^9, 3.788694502223117*^9}, {3.788694548961315*^9, 
-  3.788694552790284*^9}, {3.78869461462584*^9, 3.788694620011574*^9}, {
-  3.78869663739149*^9, 3.788696639724017*^9}, {3.7886967327314577`*^9, 
-  3.788696795189582*^9}, {3.788696825441743*^9, 3.788696882718772*^9}, {
-  3.788698845756605*^9, 3.788698895602101*^9}, {3.7886990578125477`*^9, 
-  3.7886990755912433`*^9}},ExpressionUUID->"b391188a-36da-464e-8526-\
-07423cb0d13a"],
+  RowBox[{"0", ",", "24", ",", "29", ",", "6.5"}], "]"}]}], "Input",
+ CellChangeTimes->CompressedData["
+1:eJwdzE0ogwEAxvG3JQehpuUrYlsWjbXEZFimlVrLQbKZmZptXt7DkI9iseZj
+WE5LMkWylrJWKHYZRTaHxdSKkQMpZFHESg7e5z08/S5Pf67B0mpiEQRRSA+6
+JHGNVpqQtx07tdCwqjNAxW6pEaZTHgr+Ld8MwPp5agTyi8hRKIv4J2Flg9UG
+/fsPM/DQvTALQ6HbbVgjv9yBaYMJTSetXfiphx6VwQwjE70U5KiTGTra8aAv
+Bw7fq6wwxA8z5p6u2yFLmTcNH1NjizCqtzlhtsPn6KIVCJOM+eSKC2ayzWvw
+hCfagCJC7YUFksCanrZP8bUJjYT0AI69DQXgXKzp3YT+q/cbSggqbKYtPVJG
+4O0VPwrLVUvXUMy2V/XiT7TXwYuQpQd6ss4YC0wpXJK2o7aMB90t1QKoew5W
+wHyO4wPulcQZt4qnkpCM6f/g8K/6rp+2W2x9gppm8gWeyxp/4D/D29e7
+  "],ExpressionUUID->"b391188a-36da-464e-8526-07423cb0d13a"],
 
-Cell[BoxData["178.42105263157893`"], "Output",
- CellChangeTimes->{{3.788690271772834*^9, 3.788690312550028*^9}, 
-   3.788690355476398*^9, 3.788690436340206*^9, 3.7886904766459384`*^9, {
-   3.7886907750127563`*^9, 3.7886907827735405`*^9}, {3.7886921734342775`*^9, 
-   3.7886922158956237`*^9}, {3.788692279711197*^9, 3.788692315379758*^9}, 
-   3.7886936197923784`*^9, {3.7886936505134277`*^9, 3.788693693739993*^9}, 
-   3.7886945024919844`*^9, 3.788694553127323*^9, {3.788694603150771*^9, 
-   3.7886946203643737`*^9}, 3.7886966399259*^9, {3.7886967790319867`*^9, 
-   3.788696795352507*^9}, {3.7886968385852633`*^9, 3.788696883264962*^9}, {
-   3.78869885028141*^9, 3.7886988957330503`*^9}, {3.788699041532031*^9, 
-   3.7886990759270515`*^9}},ExpressionUUID->"8f2b2238-c994-4244-a7c4-\
-50c41a14c75c"]
+Cell[BoxData["48.769230769230774`"], "Output",
+ CellChangeTimes->{{3.7887239375994973`*^9, 3.788724004299493*^9}, 
+   3.7887240394085507`*^9, {3.7887240702526445`*^9, 3.7887240925881386`*^9}, {
+   3.7887241285347247`*^9, 
+   3.7887241463351808`*^9}},ExpressionUUID->"2016b1c7-66f4-4704-bdd9-\
+2a7f74e282b1"]
 }, Open  ]]
 },
 WindowSize->{448, 150},
@@ -82,12 +72,10 @@ CellTagsIndex->{}
 (*NotebookFileOutline
 Notebook[{
 Cell[CellGroupData[{
-Cell[580, 22, 1483, 29, 104, "Input",ExpressionUUID->"b391188a-36da-464e-8526-07423cb0d13a"],
-Cell[2066, 53, 796, 11, 32, "Output",ExpressionUUID->"8f2b2238-c994-4244-a7c4-50c41a14c75c"]
+Cell[580, 22, 1102, 25, 104, "Input",ExpressionUUID->"b391188a-36da-464e-8526-07423cb0d13a"],
+Cell[1685, 49, 307, 5, 32, "Output",ExpressionUUID->"2016b1c7-66f4-4704-bdd9-2a7f74e282b1"]
 }, Open  ]]
 }
 ]
 *)
-
-(* End of internal cache information *)
 
