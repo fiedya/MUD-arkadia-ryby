@@ -14,7 +14,7 @@ jesiotr;brazowoszara;lato;obok obawy;obawa;6300;36
 jesiotr;brazowoszara;lato;obok obawy;obawa;27000;38
 szczupak;ciemnozielona;lato;ostrorog;ostrorog;1900;150
 sum;wasata;lato;obawa;obawa;5400;105
-???;blekitnawa;lato;obawa;obawa;8000;93
+bolen;blekitnawa;lato;obawa;obawa;8000;93
 sum; wasata;lato;obawa;obawa;2100;104
 sum; wasata;lato;obawa;obawa;14000;76
 koryfena;blekitnawozielona;wiosna;obawa;obawa;7700;104
@@ -65,7 +65,7 @@ brama;zielonkawobrazowa;lato;baccala;baccala;2700;198
 brama;zielonkawobrazowa;lato;baccala;baccala;2200;172
 brama;zielonkawobrazowa;lato;baccala;baccala;4400;109
 bielmik;jasnomiedziana;lato;baccala;baccala;510;125
-???;blekitnawa;lato;obawa;obawa;1400;188
+bolen;blekitnawa;lato;obawa;obawa;1400;188
 sum;wasata;lato;obawa;obawa;13000;64
 szczupak;ciemnozielona;lato;obawa;obawa;3600;123
 szczupak;ciemnozielona;lato;obawa;obawa;3700;86
