@@ -82,3 +82,28 @@ wegorz;wezowata;lato;bogenhafen;bogenhafen;3200;62
 wegorz;wezowata;lato;bogenhafen;bogenhafen;7600;58
 jesiotr;brazowoszara;lato;bogenhafen;bogenhafen;15000;46
 jesiotr;brazowoszara;lato;bogenhafen;bogenhafen;6500;49
+jesiotr;brazowoszara;lato;obok obawy;obawa;16000;59
+jesiotr;brazowoszara;lato;obok obawy;obawa;16000;62
+szczupak;ciemnozielona;lato;obawa;obawa;4200;105
+szczupak;ciemnozielona;lato;obawa;obawa;2200;121
+szczupak;ciemnozielona;lato;obawa;obawa;2000;131
+szczupak;ciemnozielona;lato;obawa;obawa;1100;113
+sum;wasata;lato;obok obawy;obawa;4100;77
+sum;wasata;lato;obok obawy;obawa;8000;85
+makrelosz;oliwkowosrebrzysta;wyzima;bialy most;2100;118
+losos;oliwkowosrebrzysta;lato;wyzima;===;5800;===
+losos;oliwkowosrebrzysta;lato;wyzima;===;3000;===
+losos;oliwkowosrebrzysta;lato;wyzima;===;1700;===
+losos;oliwkowosrebrzysta;lato;wyzima;===;2800;===
+losos;oliwkowosrebrzysta;lato;obok piany;===;4000;===
+losos;oliwkowosrebrzysta;lato;obok piany;===;2000;===
+szczupak;ciemnozielona;lato;obok piany;ostrorog;6500;91
+mietus;brazowawa;lato;obok piany;ostrorog;8100;110
+belona;ciemnoniebieska;lato;novigrad(port);ostrorog;1100;110
+belona;ciemnoniebieska;lato;novigrad(port);ostrorog;1000;134
+sierpnik;niebieskawa;lato;novigrad(port);ostrorog;690;133
+okon;pregowana;lato;ostrorog;ostrorog;3200;118
+okon;pregowana;lato;ostrorog;ostrorog;2500;137
+jesiotr;brazowoszara;lato;ostrorog;ostrorog;17000;38
+jesiotr;brazowoszara;lato;ostrorog;ostrorog;4300;66
+jesiotr;brazowoszara;lato;ostrorog;ostrorog;15000;39
