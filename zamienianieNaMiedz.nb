@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[      2435,         73]
-NotebookOptionsPosition[      2008,         57]
-NotebookOutlinePosition[      2356,         72]
-CellTagsIndexPosition[      2313,         69]
+NotebookDataLength[      3685,         91]
+NotebookOptionsPosition[      3259,         75]
+NotebookOutlinePosition[      3604,         90]
+CellTagsIndexPosition[      3561,         87]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -35,28 +35,46 @@ Cell[BoxData[{
         RowBox[{"s", "*", "12"}], " ", "+", "m"}], ")"}], "/", "w"}], "]"}]}],
     ";"}], "\[IndentingNewLine]"}], "\[IndentingNewLine]", 
  RowBox[{"f", "[", 
-  RowBox[{"0", ",", "24", ",", "29", ",", "6.5"}], "]"}]}], "Input",
+  RowBox[{"0", ",", "26", ",", "26", ",", "3.2"}], "]"}]}], "Input",
  CellChangeTimes->CompressedData["
-1:eJwdzE0ogwEAxvG3JQehpuUrYlsWjbXEZFimlVrLQbKZmZptXt7DkI9iseZj
-WE5LMkWylrJWKHYZRTaHxdSKkQMpZFHESg7e5z08/S5Pf67B0mpiEQRRSA+6
-JHGNVpqQtx07tdCwqjNAxW6pEaZTHgr+Ld8MwPp5agTyi8hRKIv4J2Flg9UG
-/fsPM/DQvTALQ6HbbVgjv9yBaYMJTSetXfiphx6VwQwjE70U5KiTGTra8aAv
-Bw7fq6wwxA8z5p6u2yFLmTcNH1NjizCqtzlhtsPn6KIVCJOM+eSKC2ayzWvw
-hCfagCJC7YUFksCanrZP8bUJjYT0AI69DQXgXKzp3YT+q/cbSggqbKYtPVJG
-4O0VPwrLVUvXUMy2V/XiT7TXwYuQpQd6ss4YC0wpXJK2o7aMB90t1QKoew5W
-wHyO4wPulcQZt4qnkpCM6f/g8K/6rp+2W2x9gppm8gWeyxp/4D/D29e7
+1:eJwd0FtIk3EABfCPkbXshmGWsihn2dIyNVu5aqYNqrFCpNy8bMlyc7XK2zRY
+UsPLVk3xQZc6wQqHqZlhgUmkheHnFpZaX5hGkhXVUhJaOqY+9D/fw+H3cjgP
+J1Sdm6LhUBS1lwTWCMcV6aKZxNMvrOlQ3ZCphpIuQTZcrXfo4ZLtYx48dENf
+BMO26IqheKjzGow9XGKCnU+myuFT+80KSNMTrXB/4vAD6J8/o8gglkb+VUGH
+TK2FQ1dz9DBQ7l2TSTT2dmyEhs+yEkiHDbJuetVUCjnS4DL4dTlzC46oTFYY
+ZOmwKInhkV7WEF1dDVwboG2E/fyoOzCKkrdAnrCnUUU8L/Hcg9mUqBtemS7o
+gWYm6Y8G++6WOSik9INaoqBPOgQnRsNG4C5Z1RiMDiiNy0GfSj0I39K556Bj
+/QArT7MsVEdMi9/Jh/ZT+8Jh5s/e3TAk0DILH28fZ23eet0LdYxqCRoW5J8u
+EM9Gl3yHimO6X9ApPjIPC18aQ8uJG9r8tkGz8YQARiW4YqDYmSyE9hWLrD+O
+PjxQQWw5GRIP+02mSvhcsKoaPovp+wfbN3N9UPXblmYmjr02aOC8W0DbiCmJ
+ky7IrzozDGOCVr6H3UxBwm1inuxREjS9mz4OxYxACuMqs5yQrtjjgu5p/zcw
+9Vs6KyMsG4W8y9UMXGyyFtcRRa21RsinubPwvl+GB/oa5nwwP1i5ABm5klOP
+fzw7uLB+IHYdlHxoZ41YiNDBZMVdVkfb5EXYRcVegl+mmgthlshdBP8DJImF
+0w==
   "],ExpressionUUID->"b391188a-36da-464e-8526-07423cb0d13a"],
 
-Cell[BoxData["48.769230769230774`"], "Output",
+Cell[BoxData["105.625`"], "Output",
  CellChangeTimes->{{3.7887239375994973`*^9, 3.788724004299493*^9}, 
    3.7887240394085507`*^9, {3.7887240702526445`*^9, 3.7887240925881386`*^9}, {
-   3.7887241285347247`*^9, 
-   3.7887241463351808`*^9}},ExpressionUUID->"2016b1c7-66f4-4704-bdd9-\
-2a7f74e282b1"]
+   3.7887241285347247`*^9, 3.7887241463351808`*^9}, {3.788775697018261*^9, 
+   3.788775712458312*^9}, {3.788775750920885*^9, 3.788775822599517*^9}, 
+   3.788775864108806*^9, 3.7887779292222075`*^9, {3.788778600904703*^9, 
+   3.7887786167739677`*^9}, {3.7887794325422535`*^9, 3.788779464669195*^9}, {
+   3.7887802403384323`*^9, 3.7887802598163605`*^9}, {3.7887802899878664`*^9, 
+   3.788780332701139*^9}, {3.7888118333434057`*^9, 3.788811855182339*^9}, {
+   3.78881190131238*^9, 3.788811928704715*^9}, {3.7888127991396327`*^9, 
+   3.788812821817275*^9}, {3.788812874538172*^9, 3.7888128818152065`*^9}, 
+   3.7888138985195446`*^9, 3.7888139313209763`*^9, {3.78881396841612*^9, 
+   3.7888139888090057`*^9}, {3.7888152920002956`*^9, 3.788815316872406*^9}, {
+   3.7888162534002976`*^9, 3.7888162831332545`*^9}, 3.788816339179222*^9, {
+   3.7888164081262665`*^9, 3.788816450393643*^9}, 3.788816509528412*^9, 
+   3.7888172211696873`*^9, 3.7888172580482855`*^9, {3.788817312823304*^9, 
+   3.788817327527236*^9}},ExpressionUUID->"c534ff65-a6db-4e86-8a1b-\
+e73c6fb6fde9"]
 }, Open  ]]
 },
-WindowSize->{448, 150},
-WindowMargins->{{Automatic, -24}, {Automatic, 39}},
+WindowSize->{448, 164},
+WindowMargins->{{Automatic, 9}, {Automatic, 6}},
 FrontEndVersion->"11.2 for Microsoft Windows (64-bit) (September 10, 2017)",
 StyleDefinitions->"Default.nb"
 ]
@@ -72,8 +90,8 @@ CellTagsIndex->{}
 (*NotebookFileOutline
 Notebook[{
 Cell[CellGroupData[{
-Cell[580, 22, 1102, 25, 104, "Input",ExpressionUUID->"b391188a-36da-464e-8526-07423cb0d13a"],
-Cell[1685, 49, 307, 5, 32, "Output",ExpressionUUID->"2016b1c7-66f4-4704-bdd9-2a7f74e282b1"]
+Cell[580, 22, 1416, 31, 104, "Input",ExpressionUUID->"b391188a-36da-464e-8526-07423cb0d13a"],
+Cell[1999, 55, 1244, 17, 32, "Output",ExpressionUUID->"c534ff65-a6db-4e86-8a1b-e73c6fb6fde9"]
 }, Open  ]]
 }
 ]

@@ -26,9 +26,9 @@ namespace ArkadiaRyby
         {
             //ladne do wyswietlenia
             string to = "";
-            to += nazwa+"--" +opis+ " -- zlowiona w: "+ pora +": <"
-                + gdzieZlowione+"> i sprzedane: <" + gdzieSprzedane+"> za " + cenaKg + "/kg";
-            to += ". Cala ryba wazyla: " + waga;
+            to += nazwa + " -- " + opis + " -- zlowiona w: " + pora + ": <"
+                + gdzieZlowione + "> i sprzedane: <" + gdzieSprzedane + "> za " + cenaKg + "/kg";
+            to += ". Wazyla: " + waga;
             return to;
 
         }

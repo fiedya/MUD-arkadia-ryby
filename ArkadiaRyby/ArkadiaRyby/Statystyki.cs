@@ -85,7 +85,7 @@ namespace ArkadiaRyby
                 }
                 else break;
             }
-  
+
             return lista;
 
         }

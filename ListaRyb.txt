@@ -90,13 +90,13 @@ szczupak;ciemnozielona;lato;obawa;obawa;2000;131
 szczupak;ciemnozielona;lato;obawa;obawa;1100;113
 sum;wasata;lato;obok obawy;obawa;4100;77
 sum;wasata;lato;obok obawy;obawa;8000;85
-makrelosz;oliwkowosrebrzysta;wyzima;bialy most;2100;118
-losos;oliwkowosrebrzysta;lato;wyzima;===;5800;===
-losos;oliwkowosrebrzysta;lato;wyzima;===;3000;===
-losos;oliwkowosrebrzysta;lato;wyzima;===;1700;===
-losos;oliwkowosrebrzysta;lato;wyzima;===;2800;===
-losos;oliwkowosrebrzysta;lato;obok piany;===;4000;===
-losos;oliwkowosrebrzysta;lato;obok piany;===;2000;===
+makrelosz;oliwkowosrebrzysta;lato;wyzima;bialy most;2100;118
+losos;oliwkowosrebrzysta;lato;wyzima;zajazd;5800;1000
+losos;oliwkowosrebrzysta;lato;wyzima;zajazd;3000;1000
+losos;oliwkowosrebrzysta;lato;wyzima;zajazd;1700;1000
+losos;oliwkowosrebrzysta;lato;wyzima;zajazd;2800;1000
+losos;oliwkowosrebrzysta;lato;obok piany;zajazd;4000;1000
+losos;oliwkowosrebrzysta;lato;obok piany;zajazd;2000;1000
 szczupak;ciemnozielona;lato;obok piany;ostrorog;6500;91
 mietus;brazowawa;lato;obok piany;ostrorog;8100;110
 belona;ciemnoniebieska;lato;novigrad(port);ostrorog;1100;110
@@ -107,3 +107,30 @@ okon;pregowana;lato;ostrorog;ostrorog;2500;137
 jesiotr;brazowoszara;lato;ostrorog;ostrorog;17000;38
 jesiotr;brazowoszara;lato;ostrorog;ostrorog;4300;66
 jesiotr;brazowoszara;lato;ostrorog;ostrorog;15000;39
+okon;pregowana;lato;ostrorog;ostrorog;2000;103
+okon;pregowana;lato;ostrorog;ostrorog;1500;179
+wegorz;wezowata;lato;ostrorog;ostrorog;3000;70
+wegorz;wezowata;lato;ostrorog;ostrorog;920;75
+makrelosz;oliwkowosrebrzysta;lato;novigrad(poludnie);obawa;3100;90
+losos;oliwkowosrebrzysta;lato;novigrad(poludnie);zajazd;2500;1000
+jesiotr;brazowoszara;lato;obok obawy;obawa;23000;40
+szczupak;ciemnozielona;lato;obok obawy;obawa;2900;87
+szczupak;ciemnozielona;lato;obok obawy;obawa;3500;85
+szczupak;ciemnozielona;lato;obok obawy;obawa;2100;134
+sum;wasata;lato;obok obawy;obawa;7200;72
+sum;wasata;lato;obok obawy;obawa;2100;100
+brama;zielonkawobrazowa;lato;baccala;baccala;4600;132
+brama;zielonkawobrazowa;lato;baccala;baccala;4200;100
+brama;zielonkawobrazowa;lato;baccala;baccala;5300;102
+tunczyk;stalowoblekitna;lato;wies zachod baccali;baccala;10000;154
+tunczyk;stalowoblekitna;lato;wies zachod baccali;baccala;6300;146
+tunczyk;stalowoblekitna;lato;wies zachod baccali;baccala;7800;162
+sledz;srebrzystozielona;lato;wies zachod baccali;baccala;410;183
+ostrosz;zoltobrazowa;lato;wies zachod baccali;baccala;690;19
+ostrosz;zoltobrazowa;lato;wies zachod baccali;baccala;580;14
+ostrosz;zoltobrazowa;lato;wies zachod baccali;baccala;560;14
+widlak;barwna;lato;wies zachod baccali;baccala;1600;99
+nawaga;plamiasta;lato;wies zachod baccali;baccala;530;101
+ostrosz;zoltobrazowa;lato;wies zachod baccali;baccala;770;16
+widlak;barwna;lato;wies zachod baccali;baccala;3700;59
+widlak;barwna;lato;wies zachod baccali;baccala;3200;105
