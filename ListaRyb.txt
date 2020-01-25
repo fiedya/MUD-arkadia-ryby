@@ -134,3 +134,56 @@ nawaga;plamiasta;lato;wies zachod baccali;baccala;530;101
 ostrosz;zoltobrazowa;lato;wies zachod baccali;baccala;770;16
 widlak;barwna;lato;wies zachod baccali;baccala;3700;59
 widlak;barwna;lato;wies zachod baccali;baccala;3200;105
+brama;zielonkawobrazowa;lato;baccala;baccala;4000;102
+brama;zielonkawobrazowa;lato;baccala;baccala;4100;126
+brama;zielonkawobrazowa;lato;baccala;baccala;3000;102
+brama;zielonkawobrazowa;lato;baccala;baccala;2200;189
+brama;zielonkawobrazowa;lato;baccala;baccala;2400;144
+brama;zielonkawobrazowa;lato;baccala;baccala;3200;158
+tunczyk;stalowoblekitna;lato;wies zachod baccali;baccala;5300;257
+tunczyk;stalowoblekitna;lato;wies zachod baccali;baccala;5000;185
+tunczyk;stalowoblekitna;lato;wies zachod baccali;baccala;2700;234
+kabryl;purpurowa;lato;wies zachod baccali;baccala;180;83
+kabryl;purpurowa;lato;wies zachod baccali;baccala;520;77
+sledz;srebrzystozielona;lato;wies zachod baccali;baccala;710;118
+barrakuda;zielonkawobrazowa;lato;wies zachod baccali;baccala;4200;210
+barrakuda;zielonkawobrazowa;lato;wies zachod baccali;baccala;5700;143
+brama;zielonkawobrazowa;lato;baccala;baccala;2600;133
+jesiotr;brazowoszara;lato;obok obawy;obawa;29000;34
+jesiotr;brazowoszara;lato;obok obawy;obawa;16000;48
+sum;wasata;lato;obok obawy;obawa;16000;66
+szczupak;ciemnozielona;lato;obawa;obawa;2800;159
+szczupak;ciemnozielona;lato;obawa;obawa;4100;102
+bolen;blekitnawa;lato;obawa;Zajazd;4400;1000
+bolen;blekitnawa;lato;obawa;Zajazd;2400;1000
+bolen;blekitnawa;lato;obawa;Zajazd;1200;1000
+bolen;blekitnawa;lato;obawa;Zajazd;5800;1000
+szczupak;ciemnozielona;lato;ostrorog;ostrorog;4500;114
+szczupak;ciemnozielona;lato;ostrorog;ostrorog;890;156
+belona;ciemnoniebieska;lato;novigrad(port);ostrorog;440;195
+belona;ciemnoniebieska;lato;novigrad(port);ostrorog;650;120
+sierpnik;niebieskawa;lato;novigrad(port);ostrorog;380;147
+jesiotr;brazowoszara;lato;novigrad(poludnie);nadrzecze;18000;48
+pstr¹g;nakrapiana;lato;nadrzecze;nadrzecze;5100;180
+glowacica;zielonkawoszara;lato;nadrzecze;nadrzecze;7100;168
+glowacica;zielonkawoszara;lato;nadrzecze;nadrzecze;4800;120
+okon;pregowana;lato;ostrorog;ostrorog;1300;176
+wegorz;wezowata;lato;ostrorog;ostrorog;4600;100
+szczupak;ciemnozielona;lato;ostrorog;ostrorog;2400;108
+szczupak;ciemnozielona;lato;ostrorog;ostrorog;5800;99
+bielmik;jasnomiedziana;lato;nad novigradem;ellax;370;1000
+barrakuda;zielonkawobrazowa;lato;nad novigradem;ostrorog;6600;154
+rdzawiec;brazowawa;lato;nad novigradem;ostrorog;2400;214
+rdzawiec;brazowawa;lato;nad novigradem;ostrorog;2900;113
+rdzawiec;brazowawa;lato;nad novigradem;ostrorog;3400;158
+losos;oliwkowosrebrzysta;lato;ostrorog;ostrorog;2400;147
+losos;oliwkowosrebrzysta;lato;ostrorog;ostrorog;3300;125
+losos;oliwkowosrebrzysta;lato;ostrorog;ostrorog;3400;139
+losos;oliwkowosrebrzysta;lato;ostrorog;ostrorog;2500;207
+losos;oliwkowosrebrzysta;jesien;novigrad(port);ostrorog;1900;200
+losos;oliwkowosrebrzysta;jesien;novigrad(port);ostrorog;2200;180
+belona;ciemnoniebieska;jesien;novigrad(port);ostrorog;940;144
+sierpnik;niebieskawa;jesien;novigrad(port);ostrorog;750;116
+mietus;brazowawa;jesien;novigrad(poludnie);ostrorog;6300;102
+jesiotr;brazowoszara;jesien;novigrad(poludnie);ostrorog;10000;57
+jesiotr;brazowoszara;jesien;novigrad(poludnie);ostrorog;22000;42
