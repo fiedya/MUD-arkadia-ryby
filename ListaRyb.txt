@@ -91,12 +91,12 @@ szczupak;ciemnozielona;lato;obawa;obawa;1100;113
 sum;wasata;lato;obok obawy;obawa;4100;77
 sum;wasata;lato;obok obawy;obawa;8000;85
 makrelosz;oliwkowosrebrzysta;lato;wyzima;bialy most;2100;118
-losos;oliwkowosrebrzysta;lato;wyzima;zajazd;5800;1000
-losos;oliwkowosrebrzysta;lato;wyzima;zajazd;3000;1000
-losos;oliwkowosrebrzysta;lato;wyzima;zajazd;1700;1000
-losos;oliwkowosrebrzysta;lato;wyzima;zajazd;2800;1000
-losos;oliwkowosrebrzysta;lato;obok piany;zajazd;4000;1000
-losos;oliwkowosrebrzysta;lato;obok piany;zajazd;2000;1000
+losos;oliwkowosrebrzysta;lato;wyzima;nope;5800;0
+losos;oliwkowosrebrzysta;lato;wyzima;nope;3000;0
+losos;oliwkowosrebrzysta;lato;wyzima;nope;1700;0
+losos;oliwkowosrebrzysta;lato;wyzima;nope;2800;0
+losos;oliwkowosrebrzysta;lato;obok piany;nope;4000;0
+losos;oliwkowosrebrzysta;lato;obok piany;nope;2000;0
 szczupak;ciemnozielona;lato;obok piany;ostrorog;6500;91
 mietus;brazowawa;lato;obok piany;ostrorog;8100;110
 belona;ciemnoniebieska;lato;novigrad(port);ostrorog;1100;110
@@ -112,7 +112,7 @@ okon;pregowana;lato;ostrorog;ostrorog;1500;179
 wegorz;wezowata;lato;ostrorog;ostrorog;3000;70
 wegorz;wezowata;lato;ostrorog;ostrorog;920;75
 makrelosz;oliwkowosrebrzysta;lato;novigrad(poludnie);obawa;3100;90
-losos;oliwkowosrebrzysta;lato;novigrad(poludnie);zajazd;2500;1000
+losos;oliwkowosrebrzysta;lato;novigrad(poludnie);0;2500;0
 jesiotr;brazowoszara;lato;obok obawy;obawa;23000;40
 szczupak;ciemnozielona;lato;obok obawy;obawa;2900;87
 szczupak;ciemnozielona;lato;obok obawy;obawa;3500;85
@@ -154,10 +154,10 @@ jesiotr;brazowoszara;lato;obok obawy;obawa;16000;48
 sum;wasata;lato;obok obawy;obawa;16000;66
 szczupak;ciemnozielona;lato;obawa;obawa;2800;159
 szczupak;ciemnozielona;lato;obawa;obawa;4100;102
-bolen;blekitnawa;lato;obawa;Zajazd;4400;1000
-bolen;blekitnawa;lato;obawa;Zajazd;2400;1000
-bolen;blekitnawa;lato;obawa;Zajazd;1200;1000
-bolen;blekitnawa;lato;obawa;Zajazd;5800;1000
+bolen;blekitnawa;lato;obawa;nope;4400;0
+bolen;blekitnawa;lato;obawa;nope;2400;0
+bolen;blekitnawa;lato;obawa;nope;1200;0
+bolen;blekitnawa;lato;obawa;nope;5800;0
 szczupak;ciemnozielona;lato;ostrorog;ostrorog;4500;114
 szczupak;ciemnozielona;lato;ostrorog;ostrorog;890;156
 belona;ciemnoniebieska;lato;novigrad(port);ostrorog;440;195
@@ -171,7 +171,6 @@ okon;pregowana;lato;ostrorog;ostrorog;1300;176
 wegorz;wezowata;lato;ostrorog;ostrorog;4600;100
 szczupak;ciemnozielona;lato;ostrorog;ostrorog;2400;108
 szczupak;ciemnozielona;lato;ostrorog;ostrorog;5800;99
-bielmik;jasnomiedziana;lato;nad novigradem;ellax;370;1000
 barrakuda;zielonkawobrazowa;lato;nad novigradem;ostrorog;6600;154
 rdzawiec;brazowawa;lato;nad novigradem;ostrorog;2400;214
 rdzawiec;brazowawa;lato;nad novigradem;ostrorog;2900;113
@@ -187,3 +186,70 @@ sierpnik;niebieskawa;jesien;novigrad(port);ostrorog;750;116
 mietus;brazowawa;jesien;novigrad(poludnie);ostrorog;6300;102
 jesiotr;brazowoszara;jesien;novigrad(poludnie);ostrorog;10000;57
 jesiotr;brazowoszara;jesien;novigrad(poludnie);ostrorog;22000;42
+wegorz;wezowata;jesien;ostrorog;ostrorog;850;75
+szczupak;ciemnozielona;jesien;ostrorog;ostrorog;3500;123
+mietus;brazowawa;jesien;novigrad(poludnie);ostrorog;11000;100
+antias;czerwonawa;jesien;novigrad(port);ostrorog;3300;145
+belona;ciemnoniebieska;jesien;novigrad(port);ostrorog;640;128
+belona;ciemnoniebieska;jesien;novigrad(port);ostrorog;290;197
+sierpnik;niebieskawa;jesien;novigrad(port);ostrorog;190;200
+brama;zielonkawobrazowa;jesien;nad novigradem;ostrorog;1800;188
+brama;zielonkawobrazowa;jesien;nad novigradem;ostrorog;4100;99
+brama;zielonkawobrazowa;jesien;nad novigradem;ostrorog;3400;139
+brama;zielonkawobrazowa;jesien;nad novigradem;ostrorog;3600;160
+sledz;srebrzystozielona;jesien;nad novigradem;ostrorog;400;140
+sledz;srebrzystozielona;jesien;nad novigradem;ostrorog;570;130
+sledz;srebrzystozielona;jesien;nad novigradem;ostrorog;400;173
+???;wezowata;jesien;nad novigradem;ostrorog;9300;36
+losos;oliwkowosrebrzysta;jesien;novigrad(port);ostrorog;2900;209
+losos;oliwkowosrebrzysta;jesien;novigrad(port);ostrorog;2800;118
+losos;oliwkowosrebrzysta;jesien;novigrad(port);ostrorog;2500;137
+antias;czerwonawa;jesien;novigrad(port);ostrorog;5000;125
+antias;czerwonawa;jesien;novigrad(port);ostrorog;2700;127
+szczupak;ciemnozielona;jesien;ostrorog;nope;3800;0
+losos;oliwkowosrebrzysta;jesien;ostrorog;nope;3200;0
+losos;oliwkowosrebrzysta;jesien;ostrorog;nope;2800;0
+losos;oliwkowosrebrzysta;jesien;ostrorog;nope;3000;0
+losos;oliwkowosrebrzysta;jesien;ostrorog;nope;1300;0
+bolen;blekitnawa;jesien novigrad(poludnie);nope;6000;0
+bolen;blekitnawa;jesien novigrad(poludnie);nope;6600;0
+jesiotr;brazowoszara;jesien;novigrad(poludnie);nope;15000;0
+mietus;brazowawa;novigrad(poludnie);nope;7800;0
+mietus;brazowawa;stocznia;nope;5400;0
+mietus;brazowawa;stocznia;nope;3300;0
+wegorz;wezowata;stocznia;nope;2700;0
+mietus;brazowawa;stocznia;nope;8600;0
+wegorz;wezowata;stocznia;nope;2800;0
+losos;oliwkowosrebrzysta;jesien;ostrorog;ostrorog;2400;193
+losos;oliwkowosrebrzysta;jesien;ostrorog;ostrorog;2800;165
+szczupak;ciemnozielona;jesien;ostrorog;ostrorog;5100;104
+bolen;blekitnawa;jesien novigrad(poludnie);ostrorog;2000;169
+mietus;brazowawa;novigrad(poludnie);ostrorog;8100;133
+mietus;brazowawa;novigrad(poludnie);ostrorog;4300;172
+jesiotr;brazowoszara;jesien;novigrad(poludnie);ostrorog;43
+rdzawiec;brazowawa;jesien;nad novigradem;ostrorog;3700;141
+rdzawiec;brazowawa;jesien;nad novigradem;ostrorog;1900;221
+rdzawiec;brazowawa;jesien;nad novigradem;ostrorog;3000;161
+rdzawiec;brazowawa;jesien;nad novigradem;ostrorog;2100;229
+bielmik;jasnomiedziana;nad novigradem;ostrorog;250;176
+bielmik;jasnomiedziana;nad novigradem;ostrorog;760;97
+sierpnik;niebieskawa;novigrad(port);ostrorog;270;170
+belona;ciemnoniebieska;novigrad(port);ostrorog;1200;112
+antias;czerwonawa;novigrad(port);ostrorog;6700;117
+wegorz;wezowata;jesien;oxenfurt;bialy most;4100;98
+sandacz;ciemnozielona;jesien;bialy most;bialy most;3600;140
+losos;oliwkowosrebrzysta;jesien;wyzima;bialy most;1600;140
+losos;oliwkowosrebrzysta;jesien;wyzima;bialy most;1900;148
+ostrobok;zielononiebieska;jesien;blaviken;blaviken;300;157
+ostrobok;zielononiebieska;jesien;blaviken;blaviken;910;132
+ostrobok;zielononiebieska;jesien;blaviken;blaviken;460;200
+ostrobok;zielononiebieska;jesien;blaviken;blaviken;290;159
+mietus;brazowawy;jesien;noc;deavon;blaviken;5800;106
+glowacica;zielonkawoszara;noc;deavon;blaviken;5100;129
+glowacica;zielonkawoszara;noc;deavon;blaviken;5000;147
+glowacica;zielonkawoszara;noc;deavon;blaviken;2400;198
+losos;oliwkowosrebrzysta;jesien;noc;deavon;blaviken;3000;127
+losos;oliwkowosrebrzysta;jesien;nocdeavon;blaviken;3100;123
+losos;oliwkowosrebrzysta;jesien;nocdeavon;blaviken;3000;133
+losos;oliwkowosrebrzysta;jesien;nocdeavon;blaviken;3100;123
+jesiotr;brazowoszara;jesien;noc;deavon;blaviken;19000;34

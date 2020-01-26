@@ -49,9 +49,14 @@ namespace ArkadiaRyby
 
             double sr = 0;
             int m = rybki.Count;
-            for (int i = 0; i < m; i++) sr += rybki[i].cenaKg;
+            int counter = 0;
+            for (int i = 0; i < m; i++)
+            {
+                if (rybki[i].cenaKg == 0) counter++;
+                sr += rybki[i].cenaKg;
 
-            sr /= m;
+            }
+            sr /= (m-counter);
             return sr;
         }
 
