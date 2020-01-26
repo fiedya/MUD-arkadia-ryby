@@ -245,11 +245,21 @@ ostrobok;zielononiebieska;jesien;blaviken;blaviken;910;132
 ostrobok;zielononiebieska;jesien;blaviken;blaviken;460;200
 ostrobok;zielononiebieska;jesien;blaviken;blaviken;290;159
 mietus;brazowawy;jesien;noc;deavon;blaviken;5800;106
-glowacica;zielonkawoszara;noc;deavon;blaviken;5100;129
-glowacica;zielonkawoszara;noc;deavon;blaviken;5000;147
-glowacica;zielonkawoszara;noc;deavon;blaviken;2400;198
+glowacica;zielonkawoszara;jesien;noc;deavon;blaviken;5100;129
+glowacica;zielonkawoszara;jesien;noc;deavon;blaviken;5000;147
+glowacica;zielonkawoszara;jesien;noc;deavon;blaviken;2400;198
 losos;oliwkowosrebrzysta;jesien;noc;deavon;blaviken;3000;127
-losos;oliwkowosrebrzysta;jesien;nocdeavon;blaviken;3100;123
-losos;oliwkowosrebrzysta;jesien;nocdeavon;blaviken;3000;133
-losos;oliwkowosrebrzysta;jesien;nocdeavon;blaviken;3100;123
+losos;oliwkowosrebrzysta;jesien;noc;deavon;blaviken;3100;123
+losos;oliwkowosrebrzysta;jesien;noc;deavon;blaviken;3000;133
+losos;oliwkowosrebrzysta;jesien;noc;deavon;blaviken;3100;123
 jesiotr;brazowoszara;jesien;noc;deavon;blaviken;19000;34
+antias;czerwonawa;jesien;noc;blaviken;blaviken;8100;89
+czarniak;mosieznozlota;jesien;noc;blaviken;blaviken;2700;148
+pilczyk;zoltobrazowa;jesien;noc;blaviken;blaviken;300;73
+karpienczyk;czerwonozlota;robak;jesien;noc;czarny staw;nope;92;0
+karas;brazowawa;robak;jesien;dzien;czarny staw;nope;1500;0
+karpienczyk;czerwonozlota;robak;jesien;dzien;czarny staw;nope;93;0
+losos;oliwkowosrebrzysta;rybka;jesien;dzien;kz(port);czarny staw;1600;149
+losos;oliwkowosrebrzysta;rybka;jesien;dzien;kz(port);czarny staw;2200;180
+szczupak;ciemnozielona;rybka;jesien;dzien;kz(port);czarny staw;4600;90
+wegorz;wezowata;rybka;jesien;dzien;kz(port);czarny staw;1700;115
