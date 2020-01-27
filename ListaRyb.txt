@@ -259,7 +259,69 @@ pilczyk;zoltobrazowa;jesien;noc;blaviken;blaviken;300;73
 karpienczyk;czerwonozlota;robak;jesien;noc;czarny staw;nope;92;0
 karas;brazowawa;robak;jesien;dzien;czarny staw;nope;1500;0
 karpienczyk;czerwonozlota;robak;jesien;dzien;czarny staw;nope;93;0
-losos;oliwkowosrebrzysta;rybka;jesien;dzien;kz(port);czarny staw;1600;149
+losos;oliwkowosrebrzysta;rybka;jesien;dzien;kz(port);cziarny staw;1600;149
 losos;oliwkowosrebrzysta;rybka;jesien;dzien;kz(port);czarny staw;2200;180
 szczupak;ciemnozielona;rybka;jesien;dzien;kz(port);czarny staw;4600;90
 wegorz;wezowata;rybka;jesien;dzien;kz(port);czarny staw;1700;115
+mietus;brazowawa;rybka;jesien;dzien;czarny staw;czarny staw;9300;101
+mietus;brazowawa;rybka;jesien;dzien;czarny staw;czarny staw;10000;119
+mietus;brazowawa;rybka;jesien;dzien;czarny staw;czarny staw;4300;162
+okon;pregowana;rybka;jesien;dzien;czarny staw;czarny staw;3100;169
+ostrobok;zielononiebieska;rybka;jesien;noc;blaviken;blaviken;460;200
+ostrobok;zielononiebieska;rybka;jesien;noc;blaviken;blaviken;800;110
+ostrobok;zielononiebieska;rybka;jesien;noc;blaviken;blaviken;770;112
+ostrobok;zielononiebieska;rybka;jesien;noc;blaviken;blaviken;470;172
+ostrobok;zielononiebieska;rybka;jesien;noc;blaviken;blaviken;610;154
+ostrobok;zielononiebieska;rybka;jesien;noc;blaviken;blaviken;730;118
+ostrobok;zielononiebieska;rybka;jesien;noc;blaviken;blaviken;920;101
+ostrobok;zielononiebieska;rybka;jesien;noc;blaviken;blaviken;500;136
+dubiel;srebrzystoszara;robak;jesien;dzien;blaviken;blaviken;1600;110
+dubiel;srebrzystoszara;robak;jesien;dzien;blaviken;blaviken;1400;190
+kaprosz;czerwonobrazowa;robak;jesien;dzien;blaviken;blaviken;800;84
+sola;wylupiastooka;robak;jesien;dzien;blaviken;blaviken;1000;160
+sola;wylupiastooka;robak;jesien;dzien;blaviken;blaviken;560;200
+losos;oliwkowosrebrzysta;robak;jesien;dzien;novigrad(port);ostrorog;3400;110
+losos;oliwkowosrebrzysta;robak;jesien;dzien;novigrad(port);ostrorog;2700;134
+karpienczyk;czerwonozlota;robak;jesien;dzien;novigrad(port);ostrorog;120;216
+lipien;srebrzystobiala;robak;jesien;dzien;novigrad(port);ostrorog;1000;114
+kaprosz;czerwonobrazowa;robak;jesien;dzien;novigrad(port);ostrorog;280;121
+okon;pregowana;robak;jesien;dzien;ostrorog;ostrorog;3300;126
+okon;pregowana;robak;jesien;dzien;ostrorog;ostrorog;1300;202
+jazgarz;oliwkowozielona;robak;jesien;dzien;ostrorog;ostrorog;800;91
+jazgarz;oliwkowozielona;robak;jesien;dzien;ostrorog;ostrorog;610;93
+bielmik;jasnomiedziana;robak;jesien;noc;nad novigradem;ostrorog;630;138
+bielmik;jasnomiedziana;robak;jesien;noc;nad novigradem;ostrorog;390;97
+bielmik;jasnomiedziana;robak;jesien;noc;nad novigradem;ostrorog;890;98
+strojnik;fioletowoniebieska;robak;jesien;noc;nad novigradem;ostrorog;13000;100
+glowacz;szara;robak;jesien;dzien;novigrad(poludnie);ostrorog;280;193
+glowacz;szara;robak;jesien;dzien;novigrad(poludnie);ostrorog;590;181
+jazgarz;oliwkowozielona;robak;jesien;dzien;novigrad(poludnie);ostrorog;200;105
+lipien;srebrzystobiala;robak;jesien;dzien;novigrad(poludnie);ostrorog;1700;185
+wegorz;wezowata;robak;jesien;dzien;novigrad(poludnie);ostrorog;3600;94
+wegorz;wezowata;robak;jesien;dzien;novigrad(poludnie);ostrorog;7900;57
+lipien;srebrzystobiala;robak;jesien;dzien;novigrad(poludnie);ostrorog;2200;168
+okon;pregowana;robak;jesien;dzien;ostrorog;ostrorog;2000;142
+losos;oliwkowosrebrzysta;robak;jesien;noc;ostrorog;ostrorog;4000;118
+karas;brazowawa;robak;jesien;noc;ostrorog;ostrorog;2100;115
+karas;brazowawa;robak;jesien;noc;ostrorog;ostrorog;1800;158
+kielb;niebieskawobrazowa;robak;jesien;noc;ostrorog;ostrorog;76;224
+certa;srebrzysta;robak;jesien;noc;ostrorog;ostrorog;3300;125
+losos;oliwkowosrebrzysta;robak;jesien;noc;ostrorog;ostrorog;167
+certa;srebrzysta;robak;jesien;dzien;stocznia;ostrorog;2600;187
+certa;srebrzysta;robak;jesien;dzien;stocznia;ostrorog;900;187
+certa;srebrzysta;robak;jesien;dzien;stocznia;ostrorog;4200;140
+mietus;brazowawa;robak;jesien;dzien;stocznia;ostrorog;2000;139
+mietus;brazowawa;robak;jesien;dzien;stocznia;ostrorog;8000;122
+lipien;srebrzystobiala;robak;jesien;dzien;stocznia;ostrorog;1800;184
+plotka;niebieskozielona;kulka;jesien;dzien;ostrorog;ostrorog;280;157
+amur;ciemnozielona;kulka;jesien;dzien;wyzima;bialy most;4600;156
+karp;szarobrazowa;kulka;jesien;dzien;wyzima;bialy most;3000;161
+gromadnik;czarnoniebieska;kulka;jesien;dzien;nad novigradem;bialy most;630;76
+gromadnikczarnoniebieska;kulka;jesien;dzien;nad novigradem;bialy most;330;142
+amur;ciemnozielona;kulka;jesien;dzien;wyzima;bialy most;9200;167
+karp;szarobrazowa;kulka;jesien;dzien;wyzima;bialy most;2400;135
+karp;szarobrazowa;kulka;jesien;dzien;wyzima;bialy most;1600;128
+sieja;srebrzysta;robak;jesien;dzien;bialy most;bialy most;310;213
+sieja;srebrzysta;robak;jesien;dzien;bialy most;bialy most;610;134
+sieja;srebrzysta;robak;jesien;dzien;bialy most;bialy most;280;114
+plotka;niebieskozielona;kulka;jesien;dzien;bialy most;bialy most;270;140
