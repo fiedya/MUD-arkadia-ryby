@@ -325,3 +325,25 @@ sieja;srebrzysta;robak;jesien;dzien;bialy most;bialy most;310;213
 sieja;srebrzysta;robak;jesien;dzien;bialy most;bialy most;610;134
 sieja;srebrzysta;robak;jesien;dzien;bialy most;bialy most;280;114
 plotka;niebieskozielona;kulka;jesien;dzien;bialy most;bialy most;270;140
+glowacz;szara;kulka;jesien;noc;novigrad(port);ostrorog;290;200
+glowacz;szara;kulka;jesien;noc;novigrad(port);ostrorog;510;278
+tolpyga;olowianoszara;kulka;jesien;noc;novigrad(port);ostrorog;1700;165
+sardynka;srebrnoluska;kulka;jesien;noc;novigrad(port);ostrorog;290;131
+salpa;srebrzysta;jesien;kulka;dzien;novigrad(port);ostrorog;390;118
+salpa;srebrzysta;jesien;kulka;dzien;novigrad(port);ostrorog;1400;126
+salpa;srebrzysta;jesien;kulka;dzien;novigrad(port);ostrorog;1800;94
+sieja;srebrzysta;kulka;jesien;dzien;nadrzecze;nadrzecze;230;204
+sieja;srebrzysta;kulka;jesien;dzien;nadrzecze;nadrzecze;520;135
+sieja;srebrzysta;kulka;jesien;dzien;nadrzecze;nadrzecze;160;138
+???;srebrnobrunatna;kulka;jesien;noc;wyzima;bialy most;4600;119
+karp;szarobrazowa;kulka;jesien;noc;wyzima;bialy most;4800;117
+losos;oliwkowosrebrzysta;rybka;jesien;noc;wyzima;bialy most;3300;156
+losos;oliwkowosrebrzysta;rybka;jesien;noc;wyzima;bialy most;1700;182
+losos;oliwkowosrebrzysta;rybka;jesien;noc;wyzima;bialy most;2400;210
+wegorz;wezowata;rybka;jesien;noc;stare buki;stare buki;2100;100
+wegorz;wezowata;rybka;jesien;noc;stare buki;stare buki;4500;66
+szczupak;ciemnozielona;rybka;jesien;noc;stare buki;stare buki;2800;114
+szczupak;ciemnozielona;rybka;jesien;noc;stare buki;stare buki;4000;94
+karp;szarobrazowa;kulka;jesien;noc;stare buki;stare buki;6900;110
+karp;szarobrazowa;kulka;jesien;noc;stare buki;stare buki;5300;102
+wzdrega;brazowozielona;kulka;jesien;noc;stare buki;stare buki;1200;104
