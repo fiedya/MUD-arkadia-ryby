@@ -347,3 +347,152 @@ szczupak;ciemnozielona;rybka;jesien;noc;stare buki;stare buki;4000;94
 karp;szarobrazowa;kulka;jesien;noc;stare buki;stare buki;6900;110
 karp;szarobrazowa;kulka;jesien;noc;stare buki;stare buki;5300;102
 wzdrega;brazowozielona;kulka;jesien;noc;stare buki;stare buki;1200;104
+bielmik;jasnomiedziana;rybka;zima;nope;novigrad(port);nope;390;0
+bielmik;jasnomiedziana;rybka;zima;nope;novigrad(port);nope;460;0
+losos;oliwkowosrebrzysta;rybka;zima;dzien;novigrad(port);ostrorog;1900;183
+losos;oliwkowosrebrzysta;rybka;zima;dzien;novigrad(port);ostrorog;1100;211
+jesiotr;brazowoszara;rybka;zima;dzien;novigrad(port);ostrorog;17000;41
+pstrag;nakrapiana;rybka;zima;dzien;novigrad(port);ostrorog;5700;125
+rdzawiec;brazowawa;rybka;zima;dzien;novigrad(port);ostrorog;4700;147
+rdzawiec;brazowawa;rybka;zima;dzien;novigrad(port);ostrorog;4100;122
+rdzawiec;brazowawa;rybka;zima;dzien;novigrad(port);ostrorog;2400;190
+kras;brazowawa;robak;zima;noc;ostrorog;ostrorog;1300;215
+certa;srebrzysta;robak;zima;noc;ostrorog;ostrorog;4000;186
+certa;srebrzysta;robak;zima;noc;ostrorog;ostrorog;1800;171
+kabryl;purpurowa;rybka;zima;dzien;novigrad(port);nope;400;0
+kosogon;niebieskoszara;rybka;zima;dzien;novigrad(port);ostrorog;19000;44
+losos;oliwkowosrebrzysta;rybka;zima;noc;novigrad(port);ostrorog;2700;118
+mietus;brazowawa;rybka;zima;dzien;ostrorog;ostrorog;9300;104
+sum;wasata;rybka;zima;dzien;ostrorog;ostrorog;2900;59
+losos;oliwkowosrebrzysta;rybka;zima;dzien;ostrorog;ostrorog;2300;115
+losos;oliwkowosrebrzysta;rybka;zima;dzien;ostrorog;ostrorog;3700;128
+losos;oliwkowosrebrzysta;rybka;zima;dzien;ostrorog;ostrorog;4200;118
+pilczyk;zoltobrazowa;rybka;zima;dzien;ostronog;ostronog;250;68
+okon;pregowana;rybka;zima;noc;novigrad(port);ostrorog;1800;157
+???;plamiasta;rybka;zima;noc;novigrad(port);ostrorog;8200;48
+kabryl;purpurowa;rybka;zima;noc;novigrad(port);ostrorog;520;117
+???;niebieskosrebrzysta;rybka;zima;noc;novigrad(port);ostrorog;21000;85
+kabryl;purpurowa;rybka;zima;noc;novigrad(port);ostrorog;220;114
+wegorz;wezowata;rybka;zima;noc;novigrad(port);ostrorog;5600;58
+dorsz;jasnoszara;rybka;zima;rano;nad novigradem;ostrorog;1900;158
+dorsz;jasnoszara;rybka;zima;rano;nad novigradem;ostrorog;2200;173
+dorsz;jasnoszara;rybka;zima;rano;nad novigradem;ostrorog;3800;122
+dorsz;jasnoszara;rybka;zima;noc;nad novigradem;ostrorog;2300;194
+???;niebieskosrebrzysta;rybka;zima;noc;nad novigradem;ostrorog;20000;103
+dorsz;jasnoszara;rybka;zima;noc;nad novigradem;ostrorog;1800;177
+dorsz;jasnoszara;rybka;zima;noc;nad novigradem;ostrorog;4200;128
+bulawik;czarna;rybka;zima;wieczor;novigrad(port);ostrorog;500;82
+kabryl;purpurowa;rybka;zima;noc;novigrad(port);ostrorog;370;81
+dorsz;jasnoszara;rybka;zima;dzien;nad novigradem;ostrorog;2800;203
+dorsz;jasnoszara;rybka;zima;dzien;nad novigradem;ostrorog;2600;263
+???;niebieskosrebrzysta;rybka;zima;dzien;nad novigradem;ostrorog;14000;61
+???;niebieskosrebrzysta;rybka;zima;dzien;nad novigradem;ostrorog;30000;64
+???;niebieskosrebrzysta;rybka;zima;dzien;nad novigradem;ostrorog;6700;107
+dorsz;jasnoszara;rybka;zima;wieczor;nad novigradem;ostrorog;2400;115
+wegorz;wezowata;rybka;zima;po poludniu;ostrorog;ostrorog;1300;95
+dorsz;jasnoszara;rybka;zima;wieczor;nad novigradem;ostrorog;3400;148
+dorsz;jasnoszara;rybka;zima;wieczor;nad novigradem;ostrorog;3700;126
+dorsz;jasnoszara;rybka;zima;wieczor;nad novigradem;ostrorog;880;130
+bulawik;czarna;rybka;zima;rano;novigrad(port);ostrorog;460;80
+bulawik;czarna;rybka;zima;rano;novigrad(port);ostrorog;390;82
+wegorz;wezowata;rybka;zima;rano;novigrad(port);ostrorog;7900;49
+bulawik;czarna;rybka;zima;rano;novigrad(port);ostrorog;250;68
+kabryl;purpurowa;rybka;zima;rano;novigrad(port);ostrorog;460;74
+pilczyk;zoltobrazowa;rybka;zima;po poludniu;novigrad(port);ostrorog;230;61
+losos;oliwkowosrebrzysta;rybka;zima;po poludniu;novigrad(port);ostrorog;3700;158
+pilczyk;zoltobrazowa;rybka;zima;wieczor;novigrad(port);ostrorog;220;114
+losos;oliwkowosrebrzysta;rybka;zima;noc;novigrad(port);ostrorog;2700;136
+wegorz;wezowata;rybka;zima;rano;ostrorog;ostrorog;3500;228
+losos;oliwkowosrebrzysta;rybka;zima;rano;ostrorog;ostrorog;4200;143
+losos;oliwkowosrebrzysta;rybka;zima;rano;ostrorog;ostrorog;2400;205
+losos;oliwkowosrebrzysta;rybka;zima;rano;ostrorog;ostrorog;2800;202
+losos;oliwkowosrebrzysta;rybka;zima;po poludniu;ostrorog;ostrorog;760;209
+wegorz;wezowata;rybka;zima;noc;novigrad(poludnie);ostrorog;4100;67
+wegorz;wezowata;rybka;zima;noc;novigrad(poludnie);ostrorog;7700;60
+wegorz;wezowata;rybka;zima;po poludniu;novigrad(poludnie);ostrorog;3300;72
+wegorz;wezowata;rybka;zima;po poludniu;novigrad(poludnie);ostrorog;2900;117
+???;niebieskosrebrzysta;rybka;wczesna wiosna;noc;nad novigradem;ostrorog;14000;109
+???;niebieskosrebrzysta;rybka;wczesna wiosna;;noc;nad novigradem;ostrorog;4700;90
+dorsz;jasnoszara;rybka;wczesna wiosna;noc;nad novigradem;ostrorog;2300;143
+dorsz;jasnoszara;rybka;wczesna wiosna;noc;nad novigradem;ostrorog;1300;156
+dorsz;jasnoszara;rybka;wczesna wiosna;noc;nad novigradem;ostrorog;1100;170
+dorsz;jasnoszara;rybka;wczesna wiosna;po poludniu;nad novigradem;ostrorog;1000;152
+dorsz;jasnoszara;rybka;wczesna wiosna;po poludniu;nad novigradem;ostrorog;2000;115
+losos;oliwkowosrebrzysta;rybka;wczesna wiosna;rano;ostrorog;nope;3900;0
+losos;oliwkowosrebrzysta;rybka;wczesna wiosna;rano;ostrorog;nope;3800;0
+losos;oliwkowosrebrzysta;rybka;wczesna wiosna;rano;ostrorog;nope;1500;0
+losos;oliwkowosrebrzysta;rybka;wczesna wiosna;rano;ostrorog;nope;2500;0
+wegorz;wezowata;rybka;wczesna wiosna;rano;ostrorog;nope;2200;0
+kabryl;purpurowa;rybka;wczesna wiosna;noc;novigrad(poludnie);nope;250;0
+kabryl;purpurowa;rybka;wczesna wiosna;noc;novigrad(poludnie);nope;270;0
+???;plamiasta;rybka;wczesna wiosna;noc;novigrad(port);nope;8800;0
+kabryl;purpurowa;rybka;wczesna wiosna;noc;novigrad(port);nope;270;0
+???;niebieskosrebrzysta;rybka;pozna wiosna;poludnie;nad novigradem;nope;13000;0
+???;niebieskosrebrzysta;rybka;pozna wiosna;po poludniu;nad novigradem;nope;14000;0
+dorsz;jasnoszara;rybka;pozna wiosna;po poludniu;nad novigradem;nope;2300;0
+dorsz;jasnoszara;rybka;pozna wiosna;po poludniu;nad novigradem;nope;3700;0
+kabryl;purpurowa;rybka;pozna wiosna;wieczor;novigrad(port);nope;460;0
+???;plamiasta;rybka;pozna wiosna;po poludniu;novigrad(port);nope;690;0
+???;plamiasta;rybka;pozna wiosna;po poludniu;novigrad(port);nope;420;0
+mostelka;czerwonobrazowa;rybka;pozna wiosna;po poludniu;novigrad(port);nope;700;0
+mostelka;czerwonobrazowa;rybka;pozna wiosna;po poludniu;novigrad(port);nope;470;0
+dorsz;jasnoszara;rybka;pozna wiosna;noc;nad novigradem;nope;1900;0
+???;niebieskosrebrzysta;rybka;pozna wiosna;noc;nad novigradem;nope;15000;0
+???;niebieskosrebrzysta;rybka;pozna wiosna;noc;nad novigradem;nope;13000;0
+dorsz;jasnoszara;rybka;pozna wiosna;noc;nad novigradem;nope;1900;0
+dorsz;jasnoszara;rybka;pozna wiosna;wieczor;nad novigradem;nope;3100;0
+dorsz;jasnoszara;rybka;pozna wiosna;wieczor;nad novigradem;nope;3000;0
+wegorz;wezowata;rybka;pozna wiosna;rano;ostrorog;nope;2700;0
+losos;oliwkowosrebrzysta;rybka;pozna wiosna;rano;ostrorog;nope;2300;0
+losos;oliwkowosrebrzysta;rybka;pozna wiosna;rano;ostrorog;nope;3800;0
+okon;pregowana;rybka;pozna wiosna;noc;ostrorog;nope;3900;0
+okon;pregowana;rybka;pozna wiosna;noc;ostrorog;nope;4500;0
+okon;pregowana;rybka;pozna wiosna;noc;ostrorog;nope;1400;0
+losos;oliwkowosrebrzysta;rybka;pozna wiosna;po poludniu;ostrorog;nope;4200;0
+losos;oliwkowosrebrzysta;rybka;pozna wiosna;po poludniu;ostrorog;nope;4600;0
+jazgarz;oliwkowozielona;robak;pozna wiosna;po poludniu;ostrorog;nope;230;0
+wegorz;wezowata;robak;pozna wiosna;wieczor;novigrad(poludnie);nope;2400;0
+wegorz;wezowata;robak;pozna wiosna;wieczor;novigrad(poludnie);nope;2100;0
+chelon;zielonkawoszara;robak;pozna wiosna;noc;novigrad(port);nope;2100;0
+chelon;zielonkawoszara;robak;pozna wiosna;noc;novigrad(port);nope;1600;0
+chelon;zielonkawoszara;robak;pozna wiosna;noc;novigrad(port);nope;3700;0
+jelec;stalowoszara;robak;pozna wiosna;rano;oxenfurt;nope;860;0
+lin;zielonobrunatna;robak;pozna wiosna;po poludniu;oxenfurt;nope;4200;0
+jelec;stalowoszara;robak;pozna wiosna;rano;oxenfurt;nope;480;0
+jelec;stalowoszara;robak;pozna wiosna;nope;grabowa buchta;nope;120;0
+pstrag;nakrapiana;robak;pozna wiosna;nope;grabowa buchta;nope;2000;0
+okon;pregowana;robak;pozna wiosna;nope;grabowa buchta;nope;2000;0
+lin;zielonobrunatna;robak;pozna wiosna;nope;grabowa buchta;nope;2500;0
+pstrag;nakrapiana;robak;pozna wiosna;nope;grabowa buchta;nope;3100;0
+lin;zielonobrunatna;robak;pozna wiosna;nope;grabowa buchta;nope;3900;0
+pstrag;nakrapiana;robak;pozna wiosna;nope;grabowa buchta;nope;4400;0
+okon;pregowana;robak;pozna wiosna;nope;grabowa buchta;nope;3100;0
+losos;oliwkowosrebrzysta;robak;pozna wiosna;nope;grabowa buchta;nope;3200;0
+okon;pregowana;robak;pozna wiosna;nope;grabowa buchta;nope;1900;0
+jazgarz;oliwkowozielona;robak;wczesne lato;po poludniu;ostrorog;ostrorog;290;110
+wegorz;wezowata;robak;wczesne lato;po poludniu;ostrorog;ostrorog;6300;63
+kielb;niebieskawobrazowa;robak;wczesne lato;po poludniu;ostrorog;ostrorog;42;190
+losos;oliwkowosrebrzysta;robak;pozna wiosna;po poludniu;ostrorog;ostrorog;3200;124
+wegorz;wezowata;robak;wczesne lato;po poludniu;ostrorog;ostrorog;6200;71
+losos;oliwkowosrebrzysta;robak;pozna wiosna;wieczor;ostrorog;ostrorog;3400;110
+losos;oliwkowosrebrzysta;robak;pozna wiosna;wieczor;ostrorog;ostrorog;3300;125
+skalnik;czerwonawa;robak;pozna wiosna;rano;nad novigradem;ostrorog;270;133
+skalnik;czerwonawa;robak;pozna wiosna;rano;nad novigradem;ostrorog;330;167
+skalnik;czerwonawa;robak;pozna wiosna;rano;nad novigradem;ostrorog;400;115
+skalnik;czerwonawa;robak;pozna wiosna;rano;nad novigradem;ostrorog;220;141
+strojnik;fioletowoniebieska;robak;pozna wiosna;rano;nad novigradem;ostrorog;6900;180
+pagrus;szarosrebrzysta;robak;pozna wiosna;rano;nad novigradem;ostrorog;2800;13
+losos;oliwkowosrebrzysta;robak;pozna wiosna;po poludniu;novigrad(port);ostrorog;1800;180
+koryfena;blekitnawozielona;robak;pozna wiosna;po poludniu;novigrad(port);ostrorog;23000;43
+lin;zielonobrunatna;robak.pozna wiosna;po poludniu;novigrad(port);ostrorog;1800;176
+???;czerwonobrazowa;robak;pozna wiosna;wieczor;novigrad(port);ostrorog;710;75
+karp;szarobrazowa;robak;pozna wiosna;wieczor;novigrad(port);ostrorog;5100;100
+karas;brazowawa;robak;pozna wiosna;rano;novigrad(poludnie);ostrorog;2000;142
+karas;brazowawa;robak;pozna wiosna;rano;novigrad(poludnie);ostrorog;830;130
+???;srebrnobrunatna;robak;pozna wiosna;rano;novigrad(poludnie);ostrorog;3400;124
+karas;brazowawa;robak;pozna wiosna;rano;novigrad(poludnie);ostrorog;2600;106
+???;srebrnobrunatna;robak;pozna wiosna;rano;novigrad(poludnie);ostrorog;3500;184
+???;srebrnobrunatna;robak;pozna wiosna;rano;novigrad(poludnie);ostrorog;1000;129
+???;srebrnobrunatna;robak;pozna wiosna;rano;novigrad(poludnie);ostrorog;1600;116
+???;srebrnobrunatna;robak;pozna wiosna;po poludniu;novigrad(poludnie);ostrorog;1900;202
+sieja;srebrzysta;robak;pozna wiosna;noc;novigrad(poludnie);ostrorog;390;174
