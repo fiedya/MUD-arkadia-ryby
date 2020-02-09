@@ -8,6 +8,8 @@ namespace ArkadiaRyby
 {
     class Operating
     {
+
+       
         List<Ryba> ryby;
         public Operating(List<Ryba> ryby)
         {
@@ -17,7 +19,7 @@ namespace ArkadiaRyby
         public void dodajRybe(List<Ryba> ryby)
         {
             Console.WriteLine("WSZYSTKO Z MALYCH LITER");
-            Ryba ryba = new Ryba("", "", "", "", "", 0, 0);
+            Ryba ryba = new Ryba("", "","", "","", "", "", 0, 0);
             char[] whitespace = new char[] { ' ', '\t' };
 
             Console.Write("Podaj nazwe ryby i po spacji jej shorta: ");
@@ -31,10 +33,13 @@ namespace ArkadiaRyby
             {
                 Console.Write("Podaj pore roku (z malej litery) : ");
                 s = Console.ReadLine();
-                if (s == "lato" || s == "wiosna" || s == "zima" || s == "jesien") x = true;
+                if (s.Contains("lato") || s.Contains("wiosna") || s.Contains("jesien") || s.Contains("zima")) x = true;
             }
             ryba.pora = s;
-
+            Console.Write("Jaka pora dnia? ");
+            ryba.czas = Console.ReadLine();
+            Console.Write("Na co lowione? ");
+            ryba.przyneta = Console.ReadLine();
             Console.Write("Gdzie zlowione? : ");
             ryba.gdzieZlowione = Console.ReadLine();
             Console.Write("Gdzie sprzedane? : ");
@@ -60,7 +65,7 @@ namespace ArkadiaRyby
 
         public void rybaZPliku(string[] sTab, List<Ryba> ryby)
         {
-            Ryba ryba = new Ryba(sTab[0], sTab[1], sTab[2], sTab[3], sTab[4], Convert.ToDouble(sTab[5])/1000, Convert.ToInt16(sTab[6]));
+            Ryba ryba = new Ryba(sTab[0], sTab[1], sTab[2], sTab[3], sTab[4],sTab[5],sTab[6], Convert.ToDouble(sTab[5])/1000, Convert.ToInt16(sTab[6]));
             ryby.Add(ryba);
 
         }
@@ -90,13 +95,15 @@ namespace ArkadiaRyby
             switch(choice)
             {
                 case "1":
-                    Console.WriteLine("Od enterów po kolei: nazwa, opis, pora, gdzie zlowione i gdzie sprzedane.");
+                    Console.WriteLine("Od enterów po kolei: nazwa, opis, przyneta, pora, czas,gdzie zlowione i gdzie sprzedane.");
                     string n = Console.ReadLine();
                     string op = Console.ReadLine();
+                    string prz = Console.ReadLine();
                     string por = Console.ReadLine();
+                    string cz = Console.ReadLine();
                     string zl = Console.ReadLine();
                     string sp = Console.ReadLine();
-                    noweR = stats.FiltrujStringi(ryby, n,op,por,zl,sp);
+                    noweR = stats.FiltrujStringi(ryby, n,op, prz,por,cz,zl,sp);
                     Menu(noweR);
                     break;
                 case "2":

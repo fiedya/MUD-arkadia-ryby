@@ -61,7 +61,7 @@ namespace ArkadiaRyby
         }
 
         public List<Ryba> FiltrujStringi(List<Ryba> rybki, string nazwa,
-            string opis, string pora, string gdzieZlowione, string gdzieSprzedane)
+            string opis, string przyneta, string pora, string czas, string gdzieZlowione, string gdzieSprzedane)
         {
             List<Ryba> lista = new List<Ryba>();
 
@@ -72,13 +72,21 @@ namespace ArkadiaRyby
                 {
                     if (opis == "" || r.opis == opis)
                     {
-                        if (pora == "" || r.pora == pora)
+                        if (przyneta == "" || r.przyneta == przyneta)
                         {
-                            if (gdzieZlowione == "" || r.gdzieZlowione == gdzieZlowione)
+                            if (pora == "" || r.pora == pora)
                             {
-                                if (gdzieSprzedane == "" || r.gdzieSprzedane == gdzieSprzedane)
+                                if (czas == "" || r.czas == czas)
                                 {
-                                    lista.Add(r);
+                                    if (gdzieZlowione == "" || r.gdzieZlowione == gdzieZlowione)
+                                    {
+                                        if (gdzieSprzedane == "" || r.gdzieSprzedane == gdzieSprzedane)
+                                        {
+                                            lista.Add(r);
+                                        }
+                                        else break;
+                                    }
+                                    else break;
                                 }
                                 else break;
                             }

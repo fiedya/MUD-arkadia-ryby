@@ -496,3 +496,16 @@ karas;brazowawa;robak;pozna wiosna;rano;novigrad(poludnie);ostrorog;2600;106
 ???;srebrnobrunatna;robak;pozna wiosna;rano;novigrad(poludnie);ostrorog;1600;116
 ???;srebrnobrunatna;robak;pozna wiosna;po poludniu;novigrad(poludnie);ostrorog;1900;202
 sieja;srebrzysta;robak;pozna wiosna;noc;novigrad(poludnie);ostrorog;390;174
+losos;oliwkowosrebrzysta;robak;wczesna zima;po poludniu;ostrorog;nope;2600;0
+karas;brazowawa;robak;wczesna zima;po poludniu;ostrorog;nope;1200;0
+kielb;niebieskawobrazowa;wczesna zima;wieczor;ostrorog;nope;190;0
+karas;brazowawa;robak;wczesna zima;noc;novigrad(poludnie);nope;430;0
+???;srebrnobrunatna;robak;wczesna zima;noc;novigrad(poludnie);nope;2400;0
+karas;brazowawa;robak;wczesna zima;noc;novigrad(poludnie);nope;2000;0
+???;srebrnobrunatna;robak;wczesna zima;noc;novigrad(poludnie);nope;2200;0
+???;srebrnobrunatna;robak;wczesna zima;noc;novigrad(poludnie);nope;2400;0
+losos;oliwkowosrebrzysta;rybka;wczesna zima;noc;ostrorog;nope;1800;0
+losos;oliwkowosrebrzysta;rybka;wczesna zima;noc;ostrorog;nope;4700;0
+???;niebieskosrebrzysta;rybka;wczesna zima;rano;nad novigradem;nope;20000;0
+???;niebieskosrebrzysta;rybka;wczesna zima;rano;nad novigradem;nope;16000;0
+dorsz;jasnoszara;rybka;wczesna zima;rano;nad novigradem;nope;2900;0
