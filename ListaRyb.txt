@@ -532,10 +532,40 @@ bolen;blekitnawa;wczesna wiosna;noc;cisoux;quenelles;7300;100
 karas;brazowawa;rybka;wczesna wiosna;noc;cisoux;quenelles;660;100
 karas;brazowawa;rybka;wczesna wiosna;noc;cisoux;quenelles;1900;162
 karas;brazowawa;rybka;wczesna wiosna;noc;cisoux;quenelles;1400;120
-kielb;niebieskawobrazowa;rybka;wczesna wiosna;noc;cisoux;quenelles;130;151
+kielb;niebieskawobrazowa;rybk[a;wczesna wiosna;noc;cisoux;quenelles;130;151
 kielb;niebieskawobrazowa;rybka;wczesna wiosna;noc;cisoux;quenelles;200;108
 kielb;niebieskawobrazowa;rybka;wczesna wiosna;noc;cisoux;quenelles;88;125
 sieja;srebrzysta;rybka;wczesna wiosna;rano;cisoux;quenelles;490;102
 szczupak;ciemnozielona;rybka;wczesna wiosna;rano;cisoux;quenelles;3100;103
 glowacica;zielonkawoszara;rybka;wczesna wiosna;rano;marguilles;quenelles;3700;192
 glowacica;zielonkawoszara;rybka;wczesna wiosna;rano;marguilles;quenelles;4400;169
+okon;pregowana;rybka;pozna jesien;rano;obawa;obawa;2800;110
+mietus;brazowawa;rybka;pozna jesien;rano;obawa;obawa;9100;91
+bolen;blekitnawa;rybka;pozna jesien;noc;obok obawy;obawa;3900;153
+bolen;blekitnawa;rybka;pozna jesien;noc;obok obawy;obawa;10000;106
+???;srebrnobrunatna;robak;wczesna zima;rano;wyzima;bialy most;2300;217
+wegorz;wezowata;robak;wczesna zima;po poludniu;wyzima;bialy most;4300;102
+kielb;niebieskawobrazowa;wczesna zima;po poludniu;wyzima;bialy most;140;164
+jazgarz;oliwkowozielona;wczesna zima;wieczor;wyzima;bialy most;380;97
+jazgarz;oliwkowozielona;wczesna zima;wieczor;wyzima;bialy most;78;128
+jazgarz;oliwkowozielona;wczesna zima;wieczor;wyzima;bialy most;120;175
+mietus;brazowawa;robak;wczesna zima;noc;obawa;obawa;2800;95
+karas;brazowawa;robak;wczesna zima;noc;obawa;obawa;1600;103
+okon;pregowana;robak;wczesna zima;noc;obawa;obawa;3000;115
+mietus;brazowawa;robak;wczesna zima;noc;obawa;obawa;4900;103
+okon;pregowana;robak;wczesna zima;noc;obawa;obawa;2300;98
+karpienczyk;czerwonozlota;robak;wczesna zima;noc;nabrzeze scala;nabrzeze scala;120;142
+karpienczyk;czerwonozlota;robak;wczesna zima;noc;nabrzeze scala;nabrzeze scala;120;150
+karp;szarobrazowa;;robak;wczesna zima;noc;nabrzeze scala;nabrzeze scala;3100;97
+karpienczyk;czerwonozlota;robak;wczesna zima;noc;nabrzeze scala;nabrzeze scala;200;115
+karp;szarobrazowa;;robak;wczesna zima;noc;nabrzeze scala;nabrzeze scala;6000;87
+karpienczyk;czerwonozlota;robak;wczesna zima;noc;nabrzeze scala;nabrzeze scala;170;112
+karpienczyk;czerwonozlota;robak;wczesna zima;noc;nabrzeze scala;nabrzeze scala;68;118
+karpienczyk;czerwonozlota;robak;wczesna zima;noc;nabrzeze scala;nabrzeze scala;190;116
+glowacz;szara;robak;wczesna zima;wieczor;rzeka przy dolinie;stare buki;1200;142
+lipien;srebrzystobiala;robak;wczesna zima;wieczor;rzeka przy dolinie;stare buki;1300;137
+mietus;brazowawa;robak;wczesna zima;wieczor;rzeka przy dolinie;stare buki;12000;96
+mietus;brazowawa;robak;wczesna zima;wieczor;rzeka przy dolinie;stare buki;3800;151
+jelec;stalowoszara;robak;wczesna zima;noc;rzeka przy dolinie;stare buki;760;108
+lipien;srebrzystobiala;robak;wczesna zima;noc;rzeka przy dolinie;stare buki;2300;135
+lipien;srebrzystobiala;robak;wczesna zima;wieczor;rzeka przy dolinie;stare buki;1700;184
