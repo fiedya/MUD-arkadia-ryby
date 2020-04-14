@@ -569,3 +569,22 @@ mietus;brazowawa;robak;wczesna zima;wieczor;rzeka przy dolinie;stare buki;3800;1
 jelec;stalowoszara;robak;wczesna zima;noc;rzeka przy dolinie;stare buki;760;108
 lipien;srebrzystobiala;robak;wczesna zima;noc;rzeka przy dolinie;stare buki;2300;135
 lipien;srebrzystobiala;robak;wczesna zima;wieczor;rzeka przy dolinie;stare buki;1700;184
+szczupak;ciemnozielony;rybka;wczesna zima;noc;ostrorog;nope;2400;0
+sum;wasata;rybka;wczesna zima;noc;ostrorog;nope;8400;0
+sum;wasata;rybka;wczesna zima;noc;ostrorog;nope;5900;0
+losos;oliwkowosrebrzysta;rybka;wczesna zima;noc;ostrorog;nope;2400;0
+szczupak;ciemnozielony;rybka;wczesna zima;noc;ostrorog;nope;2300;0
+sum;wasata;rybka;wczesna zima;noc;ostrorog;nope;3100;0
+losos;oliwkowosrebrzysta;rybka;wczesna zima;rano;ostrorog;nope;3900;0
+pstrag;nakrapiana;robak;wczesna zima;wieczor;rzeka przy dolinie;nope;5100;0
+pstrag;nakrapiana;robak;wczesna zima;wieczor;rzeka przy dolinie;nope;4800;0
+wegorz;wezowata;robak;wczesna zima;noc;rzeka przy dolinie;nope;1800;0
+sum;wasata;rybka;wczesne lato;po poludniu;ubersreik;bogenfahen;4100;64
+wegorz;wezowata;rybka;wczesne lato;po poludniu;ubersreik;bogenfahen;4100;76
+karas;brazowawa;robak;wczesne lato;noc;cisoux;quenelles;1100;214
+karas;brazowawa;robak;wczesne lato;noc;cisoux;quenelles;1700;97
+karas;brazowawa;robak;wczesne lato;noc;cisoux;quenelles;1700;125
+glowacz;szara;kulka;wczesne lato;rano;cisoux;quenelles;700;127
+karas;brazowawa;kulka;wczesne lato;po poludniu;cisoux;quenelles;1500;117
+glowacz;szara;kulka;wczesne lato;po poludniu;cisoux;quenelles;390;192
+glowacz;szara;rybak;wczesne lato;po poludniu;cisoux;quenelles;540;143
