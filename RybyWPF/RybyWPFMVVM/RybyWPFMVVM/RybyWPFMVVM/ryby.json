@@ -1,0 +1,279 @@
+{"Nazwa":"certa","ShortName":"srebrzysta","Przyneta":"robak","PoraRoku":"jesien","PoraDnia":"dzien","GdzieZlowione":"stocznia","GdzieSprzedane":"ostrorog","Waga":2600,"Cena":187}
+{"Nazwa":"certa","ShortName":"srebrzysta","Przyneta":"robak","PoraRoku":"jesien","PoraDnia":"dzien","GdzieZlowione":"stocznia","GdzieSprzedane":"ostrorog","Waga":900,"Cena":187}
+{"Nazwa":"certa","ShortName":"srebrzysta","Przyneta":"robak","PoraRoku":"jesien","PoraDnia":"dzien","GdzieZlowione":"stocznia","GdzieSprzedane":"ostrorog","Waga":4200,"Cena":140}
+{"Nazwa":"mietus","ShortName":"brazowawa","Przyneta":"robak","PoraRoku":"jesien","PoraDnia":"dzien","GdzieZlowione":"stocznia","GdzieSprzedane":"ostrorog","Waga":2000,"Cena":139}
+{"Nazwa":"mietus","ShortName":"brazowawa","Przyneta":"robak","PoraRoku":"jesien","PoraDnia":"dzien","GdzieZlowione":"stocznia","GdzieSprzedane":"ostrorog","Waga":8000,"Cena":122}
+{"Nazwa":"lipien","ShortName":"srebrzystobiala","Przyneta":"robak","PoraRoku":"jesien","PoraDnia":"dzien","GdzieZlowione":"stocznia","GdzieSprzedane":"ostrorog","Waga":1800,"Cena":184}
+{"Nazwa":"plotka","ShortName":"niebieskozielona","Przyneta":"kulka","PoraRoku":"jesien","PoraDnia":"dzien","GdzieZlowione":"ostrorog","GdzieSprzedane":"ostrorog","Waga":280,"Cena":157}
+{"Nazwa":"amur","ShortName":"ciemnozielona","Przyneta":"kulka","PoraRoku":"jesien","PoraDnia":"dzien","GdzieZlowione":"wyzima","GdzieSprzedane":"bialy most","Waga":4600,"Cena":156}
+{"Nazwa":"karp","ShortName":"szarobrazowa","Przyneta":"kulka","PoraRoku":"jesien","PoraDnia":"dzien","GdzieZlowione":"wyzima","GdzieSprzedane":"bialy most","Waga":3000,"Cena":161}
+{"Nazwa":"gromadnik","ShortName":"czarnoniebieska","Przyneta":"kulka","PoraRoku":"jesien","PoraDnia":"dzien","GdzieZlowione":"nad novigradem","GdzieSprzedane":"bialy most","Waga":630,"Cena":76}
+{"Nazwa":"gromadnik","ShortName":"czarnoniebieska","Przyneta":"kulka","PoraRoku":"jesien","PoraDnia":"dzien","GdzieZlowione":"nad novigradem","GdzieSprzedane":"bialy most","Waga":330,"Cena":142}
+{"Nazwa":"amur","ShortName":"ciemnozielona","Przyneta":"kulka","PoraRoku":"jesien","PoraDnia":"dzien","GdzieZlowione":"wyzima","GdzieSprzedane":"bialy most","Waga":9200,"Cena":167}
+{"Nazwa":"karp","ShortName":"szarobrazowa","Przyneta":"kulka","PoraRoku":"jesien","PoraDnia":"dzien","GdzieZlowione":"wyzima","GdzieSprzedane":"bialy most","Waga":2400,"Cena":135}
+{"Nazwa":"karp","ShortName":"szarobrazowa","Przyneta":"kulka","PoraRoku":"jesien","PoraDnia":"dzien","GdzieZlowione":"wyzima","GdzieSprzedane":"bialy most","Waga":1600,"Cena":128}
+{"Nazwa":"sieja","ShortName":"srebrzysta","Przyneta":"robak","PoraRoku":"jesien","PoraDnia":"dzien","GdzieZlowione":"bialy most","GdzieSprzedane":"bialy most","Waga":310,"Cena":213}
+{"Nazwa":"sieja","ShortName":"srebrzysta","Przyneta":"robak","PoraRoku":"jesien","PoraDnia":"dzien","GdzieZlowione":"bialy most","GdzieSprzedane":"bialy most","Waga":610,"Cena":134}
+{"Nazwa":"sieja","ShortName":"srebrzysta","Przyneta":"robak","PoraRoku":"jesien","PoraDnia":"dzien","GdzieZlowione":"bialy most","GdzieSprzedane":"bialy most","Waga":280,"Cena":114}
+{"Nazwa":"plotka","ShortName":"niebieskozielona","Przyneta":"kulka","PoraRoku":"jesien","PoraDnia":"dzien","GdzieZlowione":"bialy most","GdzieSprzedane":"bialy most","Waga":270,"Cena":140}
+{"Nazwa":"glowacz","ShortName":"szara","Przyneta":"kulka","PoraRoku":"jesien","PoraDnia":"noc","GdzieZlowione":"novigrad(port)","GdzieSprzedane":"ostrorog","Waga":290,"Cena":200}
+{"Nazwa":"glowacz","ShortName":"szara","Przyneta":"kulka","PoraRoku":"jesien","PoraDnia":"noc","GdzieZlowione":"novigrad(port)","GdzieSprzedane":"ostrorog","Waga":510,"Cena":278}
+{"Nazwa":"tolpyga","ShortName":"olowianoszara","Przyneta":"kulka","PoraRoku":"jesien","PoraDnia":"noc","GdzieZlowione":"novigrad(port)","GdzieSprzedane":"ostrorog","Waga":1700,"Cena":165}
+{"Nazwa":"sardynka","ShortName":"srebrnoluska","Przyneta":"kulka","PoraRoku":"jesien","PoraDnia":"noc","GdzieZlowione":"novigrad(port)","GdzieSprzedane":"ostrorog","Waga":290,"Cena":131}
+{"Nazwa":"salpa","ShortName":"srebrzysta","Przyneta":"jesien","PoraRoku":"kulka","PoraDnia":"dzien","GdzieZlowione":"novigrad(port)","GdzieSprzedane":"ostrorog","Waga":390,"Cena":118}
+{"Nazwa":"salpa","ShortName":"srebrzysta","Przyneta":"jesien","PoraRoku":"kulka","PoraDnia":"dzien","GdzieZlowione":"novigrad(port)","GdzieSprzedane":"ostrorog","Waga":1400,"Cena":126}
+{"Nazwa":"salpa","ShortName":"srebrzysta","Przyneta":"jesien","PoraRoku":"kulka","PoraDnia":"dzien","GdzieZlowione":"novigrad(port)","GdzieSprzedane":"ostrorog","Waga":1800,"Cena":94}
+{"Nazwa":"sieja","ShortName":"srebrzysta","Przyneta":"kulka","PoraRoku":"jesien","PoraDnia":"dzien","GdzieZlowione":"nadrzecze","GdzieSprzedane":"nadrzecze","Waga":230,"Cena":204}
+{"Nazwa":"sieja","ShortName":"srebrzysta","Przyneta":"kulka","PoraRoku":"jesien","PoraDnia":"dzien","GdzieZlowione":"nadrzecze","GdzieSprzedane":"nadrzecze","Waga":520,"Cena":135}
+{"Nazwa":"sieja","ShortName":"srebrzysta","Przyneta":"kulka","PoraRoku":"jesien","PoraDnia":"dzien","GdzieZlowione":"nadrzecze","GdzieSprzedane":"nadrzecze","Waga":160,"Cena":138}
+{"Nazwa":"???","ShortName":"srebrnobrunatna","Przyneta":"kulka","PoraRoku":"jesien","PoraDnia":"noc","GdzieZlowione":"wyzima","GdzieSprzedane":"bialy most","Waga":4600,"Cena":119}
+{"Nazwa":"karp","ShortName":"szarobrazowa","Przyneta":"kulka","PoraRoku":"jesien","PoraDnia":"noc","GdzieZlowione":"wyzima","GdzieSprzedane":"bialy most","Waga":4800,"Cena":117}
+{"Nazwa":"losos","ShortName":"oliwkowosrebrzysta","Przyneta":"rybka","PoraRoku":"jesien","PoraDnia":"noc","GdzieZlowione":"wyzima","GdzieSprzedane":"bialy most","Waga":3300,"Cena":156}
+{"Nazwa":"losos","ShortName":"oliwkowosrebrzysta","Przyneta":"rybka","PoraRoku":"jesien","PoraDnia":"noc","GdzieZlowione":"wyzima","GdzieSprzedane":"bialy most","Waga":1700,"Cena":182}
+{"Nazwa":"losos","ShortName":"oliwkowosrebrzysta","Przyneta":"rybka","PoraRoku":"jesien","PoraDnia":"noc","GdzieZlowione":"wyzima","GdzieSprzedane":"bialy most","Waga":2400,"Cena":210}
+{"Nazwa":"wegorz","ShortName":"wezowata","Przyneta":"rybka","PoraRoku":"jesien","PoraDnia":"noc","GdzieZlowione":"stare buki","GdzieSprzedane":"stare buki","Waga":2100,"Cena":100}
+{"Nazwa":"wegorz","ShortName":"wezowata","Przyneta":"rybka","PoraRoku":"jesien","PoraDnia":"noc","GdzieZlowione":"stare buki","GdzieSprzedane":"stare buki","Waga":4500,"Cena":66}
+{"Nazwa":"szczupak","ShortName":"ciemnozielona","Przyneta":"rybka","PoraRoku":"jesien","PoraDnia":"noc","GdzieZlowione":"stare buki","GdzieSprzedane":"stare buki","Waga":2800,"Cena":114}
+{"Nazwa":"szczupak","ShortName":"ciemnozielona","Przyneta":"rybka","PoraRoku":"jesien","PoraDnia":"noc","GdzieZlowione":"stare buki","GdzieSprzedane":"stare buki","Waga":4000,"Cena":94}
+{"Nazwa":"karp","ShortName":"szarobrazowa","Przyneta":"kulka","PoraRoku":"jesien","PoraDnia":"noc","GdzieZlowione":"stare buki","GdzieSprzedane":"stare buki","Waga":6900,"Cena":110}
+{"Nazwa":"karp","ShortName":"szarobrazowa","Przyneta":"kulka","PoraRoku":"jesien","PoraDnia":"noc","GdzieZlowione":"stare buki","GdzieSprzedane":"stare buki","Waga":5300,"Cena":102}
+{"Nazwa":"wzdrega","ShortName":"brazowozielona","Przyneta":"kulka","PoraRoku":"jesien","PoraDnia":"noc","GdzieZlowione":"stare buki","GdzieSprzedane":"stare buki","Waga":1200,"Cena":104}
+{"Nazwa":"bielmik","ShortName":"jasnomiedziana","Przyneta":"rybka","PoraRoku":"zima","PoraDnia":"nope","GdzieZlowione":"novigrad(port)","GdzieSprzedane":"nope","Waga":390,"Cena":0}
+{"Nazwa":"bielmik","ShortName":"jasnomiedziana","Przyneta":"rybka","PoraRoku":"zima","PoraDnia":"nope","GdzieZlowione":"novigrad(port)","GdzieSprzedane":"nope","Waga":460,"Cena":0}
+{"Nazwa":"losos","ShortName":"oliwkowosrebrzysta","Przyneta":"rybka","PoraRoku":"zima","PoraDnia":"dzien","GdzieZlowione":"novigrad(port)","GdzieSprzedane":"ostrorog","Waga":1900,"Cena":183}
+{"Nazwa":"losos","ShortName":"oliwkowosrebrzysta","Przyneta":"rybka","PoraRoku":"zima","PoraDnia":"dzien","GdzieZlowione":"novigrad(port)","GdzieSprzedane":"ostrorog","Waga":1100,"Cena":211}
+{"Nazwa":"jesiotr","ShortName":"brazowoszara","Przyneta":"rybka","PoraRoku":"zima","PoraDnia":"dzien","GdzieZlowione":"novigrad(port)","GdzieSprzedane":"ostrorog","Waga":17000,"Cena":41}
+{"Nazwa":"pstrag","ShortName":"nakrapiana","Przyneta":"rybka","PoraRoku":"zima","PoraDnia":"dzien","GdzieZlowione":"novigrad(port)","GdzieSprzedane":"ostrorog","Waga":5700,"Cena":125}
+{"Nazwa":"rdzawiec","ShortName":"brazowawa","Przyneta":"rybka","PoraRoku":"zima","PoraDnia":"dzien","GdzieZlowione":"novigrad(port)","GdzieSprzedane":"ostrorog","Waga":4700,"Cena":147}
+{"Nazwa":"rdzawiec","ShortName":"brazowawa","Przyneta":"rybka","PoraRoku":"zima","PoraDnia":"dzien","GdzieZlowione":"novigrad(port)","GdzieSprzedane":"ostrorog","Waga":4100,"Cena":122}
+{"Nazwa":"rdzawiec","ShortName":"brazowawa","Przyneta":"rybka","PoraRoku":"zima","PoraDnia":"dzien","GdzieZlowione":"novigrad(port)","GdzieSprzedane":"ostrorog","Waga":2400,"Cena":190}
+{"Nazwa":"kras","ShortName":"brazowawa","Przyneta":"robak","PoraRoku":"zima","PoraDnia":"noc","GdzieZlowione":"ostrorog","GdzieSprzedane":"ostrorog","Waga":1300,"Cena":215}
+{"Nazwa":"certa","ShortName":"srebrzysta","Przyneta":"robak","PoraRoku":"zima","PoraDnia":"noc","GdzieZlowione":"ostrorog","GdzieSprzedane":"ostrorog","Waga":4000,"Cena":186}
+{"Nazwa":"certa","ShortName":"srebrzysta","Przyneta":"robak","PoraRoku":"zima","PoraDnia":"noc","GdzieZlowione":"ostrorog","GdzieSprzedane":"ostrorog","Waga":1800,"Cena":171}
+{"Nazwa":"kabryl","ShortName":"purpurowa","Przyneta":"rybka","PoraRoku":"zima","PoraDnia":"dzien","GdzieZlowione":"novigrad(port)","GdzieSprzedane":"nope","Waga":400,"Cena":0}
+{"Nazwa":"kosogon","ShortName":"niebieskoszara","Przyneta":"rybka","PoraRoku":"zima","PoraDnia":"dzien","GdzieZlowione":"novigrad(port)","GdzieSprzedane":"ostrorog","Waga":19000,"Cena":44}
+{"Nazwa":"losos","ShortName":"oliwkowosrebrzysta","Przyneta":"rybka","PoraRoku":"zima","PoraDnia":"noc","GdzieZlowione":"novigrad(port)","GdzieSprzedane":"ostrorog","Waga":2700,"Cena":118}
+{"Nazwa":"mietus","ShortName":"brazowawa","Przyneta":"rybka","PoraRoku":"zima","PoraDnia":"dzien","GdzieZlowione":"ostrorog","GdzieSprzedane":"ostrorog","Waga":9300,"Cena":104}
+{"Nazwa":"sum","ShortName":"wasata","Przyneta":"rybka","PoraRoku":"zima","PoraDnia":"dzien","GdzieZlowione":"ostrorog","GdzieSprzedane":"ostrorog","Waga":2900,"Cena":59}
+{"Nazwa":"losos","ShortName":"oliwkowosrebrzysta","Przyneta":"rybka","PoraRoku":"zima","PoraDnia":"dzien","GdzieZlowione":"ostrorog","GdzieSprzedane":"ostrorog","Waga":2300,"Cena":115}
+{"Nazwa":"losos","ShortName":"oliwkowosrebrzysta","Przyneta":"rybka","PoraRoku":"zima","PoraDnia":"dzien","GdzieZlowione":"ostrorog","GdzieSprzedane":"ostrorog","Waga":3700,"Cena":128}
+{"Nazwa":"losos","ShortName":"oliwkowosrebrzysta","Przyneta":"rybka","PoraRoku":"zima","PoraDnia":"dzien","GdzieZlowione":"ostrorog","GdzieSprzedane":"ostrorog","Waga":4200,"Cena":118}
+{"Nazwa":"pilczyk","ShortName":"zoltobrazowa","Przyneta":"rybka","PoraRoku":"zima","PoraDnia":"dzien","GdzieZlowione":"ostronog","GdzieSprzedane":"ostronog","Waga":250,"Cena":68}
+{"Nazwa":"okon","ShortName":"pregowana","Przyneta":"rybka","PoraRoku":"zima","PoraDnia":"noc","GdzieZlowione":"novigrad(port)","GdzieSprzedane":"ostrorog","Waga":1800,"Cena":157}
+{"Nazwa":"???","ShortName":"plamiasta","Przyneta":"rybka","PoraRoku":"zima","PoraDnia":"noc","GdzieZlowione":"novigrad(port)","GdzieSprzedane":"ostrorog","Waga":8200,"Cena":48}
+{"Nazwa":"kabryl","ShortName":"purpurowa","Przyneta":"rybka","PoraRoku":"zima","PoraDnia":"noc","GdzieZlowione":"novigrad(port)","GdzieSprzedane":"ostrorog","Waga":520,"Cena":117}
+{"Nazwa":"???","ShortName":"niebieskosrebrzysta","Przyneta":"rybka","PoraRoku":"zima","PoraDnia":"noc","GdzieZlowione":"novigrad(port)","GdzieSprzedane":"ostrorog","Waga":21000,"Cena":85}
+{"Nazwa":"kabryl","ShortName":"purpurowa","Przyneta":"rybka","PoraRoku":"zima","PoraDnia":"noc","GdzieZlowione":"novigrad(port)","GdzieSprzedane":"ostrorog","Waga":220,"Cena":114}
+{"Nazwa":"wegorz","ShortName":"wezowata","Przyneta":"rybka","PoraRoku":"zima","PoraDnia":"noc","GdzieZlowione":"novigrad(port)","GdzieSprzedane":"ostrorog","Waga":5600,"Cena":58}
+{"Nazwa":"dorsz","ShortName":"jasnoszara","Przyneta":"rybka","PoraRoku":"zima","PoraDnia":"rano","GdzieZlowione":"nad novigradem","GdzieSprzedane":"ostrorog","Waga":1900,"Cena":158}
+{"Nazwa":"dorsz","ShortName":"jasnoszara","Przyneta":"rybka","PoraRoku":"zima","PoraDnia":"rano","GdzieZlowione":"nad novigradem","GdzieSprzedane":"ostrorog","Waga":2200,"Cena":173}
+{"Nazwa":"dorsz","ShortName":"jasnoszara","Przyneta":"rybka","PoraRoku":"zima","PoraDnia":"rano","GdzieZlowione":"nad novigradem","GdzieSprzedane":"ostrorog","Waga":3800,"Cena":122}
+{"Nazwa":"dorsz","ShortName":"jasnoszara","Przyneta":"rybka","PoraRoku":"zima","PoraDnia":"noc","GdzieZlowione":"nad novigradem","GdzieSprzedane":"ostrorog","Waga":2300,"Cena":194}
+{"Nazwa":"???","ShortName":"niebieskosrebrzysta","Przyneta":"rybka","PoraRoku":"zima","PoraDnia":"noc","GdzieZlowione":"nad novigradem","GdzieSprzedane":"ostrorog","Waga":20000,"Cena":103}
+{"Nazwa":"dorsz","ShortName":"jasnoszara","Przyneta":"rybka","PoraRoku":"zima","PoraDnia":"noc","GdzieZlowione":"nad novigradem","GdzieSprzedane":"ostrorog","Waga":1800,"Cena":177}
+{"Nazwa":"dorsz","ShortName":"jasnoszara","Przyneta":"rybka","PoraRoku":"zima","PoraDnia":"noc","GdzieZlowione":"nad novigradem","GdzieSprzedane":"ostrorog","Waga":4200,"Cena":128}
+{"Nazwa":"bulawik","ShortName":"czarna","Przyneta":"rybka","PoraRoku":"zima","PoraDnia":"wieczor","GdzieZlowione":"novigrad(port)","GdzieSprzedane":"ostrorog","Waga":500,"Cena":82}
+{"Nazwa":"kabryl","ShortName":"purpurowa","Przyneta":"rybka","PoraRoku":"zima","PoraDnia":"noc","GdzieZlowione":"novigrad(port)","GdzieSprzedane":"ostrorog","Waga":370,"Cena":81}
+{"Nazwa":"dorsz","ShortName":"jasnoszara","Przyneta":"rybka","PoraRoku":"zima","PoraDnia":"dzien","GdzieZlowione":"nad novigradem","GdzieSprzedane":"ostrorog","Waga":2800,"Cena":203}
+{"Nazwa":"dorsz","ShortName":"jasnoszara","Przyneta":"rybka","PoraRoku":"zima","PoraDnia":"dzien","GdzieZlowione":"nad novigradem","GdzieSprzedane":"ostrorog","Waga":2600,"Cena":263}
+{"Nazwa":"???","ShortName":"niebieskosrebrzysta","Przyneta":"rybka","PoraRoku":"zima","PoraDnia":"dzien","GdzieZlowione":"nad novigradem","GdzieSprzedane":"ostrorog","Waga":14000,"Cena":61}
+{"Nazwa":"???","ShortName":"niebieskosrebrzysta","Przyneta":"rybka","PoraRoku":"zima","PoraDnia":"dzien","GdzieZlowione":"nad novigradem","GdzieSprzedane":"ostrorog","Waga":30000,"Cena":64}
+{"Nazwa":"???","ShortName":"niebieskosrebrzysta","Przyneta":"rybka","PoraRoku":"zima","PoraDnia":"dzien","GdzieZlowione":"nad novigradem","GdzieSprzedane":"ostrorog","Waga":6700,"Cena":107}
+{"Nazwa":"dorsz","ShortName":"jasnoszara","Przyneta":"rybka","PoraRoku":"zima","PoraDnia":"wieczor","GdzieZlowione":"nad novigradem","GdzieSprzedane":"ostrorog","Waga":2400,"Cena":115}
+{"Nazwa":"wegorz","ShortName":"wezowata","Przyneta":"rybka","PoraRoku":"zima","PoraDnia":"po poludniu","GdzieZlowione":"ostrorog","GdzieSprzedane":"ostrorog","Waga":1300,"Cena":95}
+{"Nazwa":"dorsz","ShortName":"jasnoszara","Przyneta":"rybka","PoraRoku":"zima","PoraDnia":"wieczor","GdzieZlowione":"nad novigradem","GdzieSprzedane":"ostrorog","Waga":3400,"Cena":148}
+{"Nazwa":"dorsz","ShortName":"jasnoszara","Przyneta":"rybka","PoraRoku":"zima","PoraDnia":"wieczor","GdzieZlowione":"nad novigradem","GdzieSprzedane":"ostrorog","Waga":3700,"Cena":126}
+{"Nazwa":"dorsz","ShortName":"jasnoszara","Przyneta":"rybka","PoraRoku":"zima","PoraDnia":"wieczor","GdzieZlowione":"nad novigradem","GdzieSprzedane":"ostrorog","Waga":880,"Cena":130}
+{"Nazwa":"bulawik","ShortName":"czarna","Przyneta":"rybka","PoraRoku":"zima","PoraDnia":"rano","GdzieZlowione":"novigrad(port)","GdzieSprzedane":"ostrorog","Waga":460,"Cena":80}
+{"Nazwa":"bulawik","ShortName":"czarna","Przyneta":"rybka","PoraRoku":"zima","PoraDnia":"rano","GdzieZlowione":"novigrad(port)","GdzieSprzedane":"ostrorog","Waga":390,"Cena":82}
+{"Nazwa":"wegorz","ShortName":"wezowata","Przyneta":"rybka","PoraRoku":"zima","PoraDnia":"rano","GdzieZlowione":"novigrad(port)","GdzieSprzedane":"ostrorog","Waga":7900,"Cena":49}
+{"Nazwa":"bulawik","ShortName":"czarna","Przyneta":"rybka","PoraRoku":"zima","PoraDnia":"rano","GdzieZlowione":"novigrad(port)","GdzieSprzedane":"ostrorog","Waga":250,"Cena":68}
+{"Nazwa":"kabryl","ShortName":"purpurowa","Przyneta":"rybka","PoraRoku":"zima","PoraDnia":"rano","GdzieZlowione":"novigrad(port)","GdzieSprzedane":"ostrorog","Waga":460,"Cena":74}
+{"Nazwa":"pilczyk","ShortName":"zoltobrazowa","Przyneta":"rybka","PoraRoku":"zima","PoraDnia":"po poludniu","GdzieZlowione":"novigrad(port)","GdzieSprzedane":"ostrorog","Waga":230,"Cena":61}
+{"Nazwa":"losos","ShortName":"oliwkowosrebrzysta","Przyneta":"rybka","PoraRoku":"zima","PoraDnia":"po poludniu","GdzieZlowione":"novigrad(port)","GdzieSprzedane":"ostrorog","Waga":3700,"Cena":158}
+{"Nazwa":"pilczyk","ShortName":"zoltobrazowa","Przyneta":"rybka","PoraRoku":"zima","PoraDnia":"wieczor","GdzieZlowione":"novigrad(port)","GdzieSprzedane":"ostrorog","Waga":220,"Cena":114}
+{"Nazwa":"losos","ShortName":"oliwkowosrebrzysta","Przyneta":"rybka","PoraRoku":"zima","PoraDnia":"noc","GdzieZlowione":"novigrad(port)","GdzieSprzedane":"ostrorog","Waga":2700,"Cena":136}
+{"Nazwa":"wegorz","ShortName":"wezowata","Przyneta":"rybka","PoraRoku":"zima","PoraDnia":"rano","GdzieZlowione":"ostrorog","GdzieSprzedane":"ostrorog","Waga":3500,"Cena":228}
+{"Nazwa":"losos","ShortName":"oliwkowosrebrzysta","Przyneta":"rybka","PoraRoku":"zima","PoraDnia":"rano","GdzieZlowione":"ostrorog","GdzieSprzedane":"ostrorog","Waga":4200,"Cena":143}
+{"Nazwa":"losos","ShortName":"oliwkowosrebrzysta","Przyneta":"rybka","PoraRoku":"zima","PoraDnia":"rano","GdzieZlowione":"ostrorog","GdzieSprzedane":"ostrorog","Waga":2400,"Cena":205}
+{"Nazwa":"losos","ShortName":"oliwkowosrebrzysta","Przyneta":"rybka","PoraRoku":"zima","PoraDnia":"rano","GdzieZlowione":"ostrorog","GdzieSprzedane":"ostrorog","Waga":2800,"Cena":202}
+{"Nazwa":"losos","ShortName":"oliwkowosrebrzysta","Przyneta":"rybka","PoraRoku":"zima","PoraDnia":"po poludniu","GdzieZlowione":"ostrorog","GdzieSprzedane":"ostrorog","Waga":760,"Cena":209}
+{"Nazwa":"wegorz","ShortName":"wezowata","Przyneta":"rybka","PoraRoku":"zima","PoraDnia":"noc","GdzieZlowione":"novigrad(poludnie)","GdzieSprzedane":"ostrorog","Waga":4100,"Cena":67}
+{"Nazwa":"wegorz","ShortName":"wezowata","Przyneta":"rybka","PoraRoku":"zima","PoraDnia":"noc","GdzieZlowione":"novigrad(poludnie)","GdzieSprzedane":"ostrorog","Waga":7700,"Cena":60}
+{"Nazwa":"wegorz","ShortName":"wezowata","Przyneta":"rybka","PoraRoku":"zima","PoraDnia":"po poludniu","GdzieZlowione":"novigrad(poludnie)","GdzieSprzedane":"ostrorog","Waga":3300,"Cena":72}
+{"Nazwa":"wegorz","ShortName":"wezowata","Przyneta":"rybka","PoraRoku":"zima","PoraDnia":"po poludniu","GdzieZlowione":"novigrad(poludnie)","GdzieSprzedane":"ostrorog","Waga":2900,"Cena":117}
+{"Nazwa":"???","ShortName":"niebieskosrebrzysta","Przyneta":"rybka","PoraRoku":"wczesna wiosna","PoraDnia":"noc","GdzieZlowione":"nad novigradem","GdzieSprzedane":"ostrorog","Waga":14000,"Cena":109}
+{"Nazwa":"???","ShortName":"niebieskosrebrzysta","Przyneta":"rybka","PoraRoku":"wczesna wiosna","PoraDnia":"noc","GdzieZlowione":"nad novigradem","GdzieSprzedane":"ostrorog","Waga":4700,"Cena":90}
+{"Nazwa":"dorsz","ShortName":"jasnoszara","Przyneta":"rybka","PoraRoku":"wczesna wiosna","PoraDnia":"noc","GdzieZlowione":"nad novigradem","GdzieSprzedane":"ostrorog","Waga":2300,"Cena":143}
+{"Nazwa":"dorsz","ShortName":"jasnoszara","Przyneta":"rybka","PoraRoku":"wczesna wiosna","PoraDnia":"noc","GdzieZlowione":"nad novigradem","GdzieSprzedane":"ostrorog","Waga":1300,"Cena":156}
+{"Nazwa":"dorsz","ShortName":"jasnoszara","Przyneta":"rybka","PoraRoku":"wczesna wiosna","PoraDnia":"noc","GdzieZlowione":"nad novigradem","GdzieSprzedane":"ostrorog","Waga":1100,"Cena":170}
+{"Nazwa":"dorsz","ShortName":"jasnoszara","Przyneta":"rybka","PoraRoku":"wczesna wiosna","PoraDnia":"po poludniu","GdzieZlowione":"nad novigradem","GdzieSprzedane":"ostrorog","Waga":1000,"Cena":152}
+{"Nazwa":"dorsz","ShortName":"jasnoszara","Przyneta":"rybka","PoraRoku":"wczesna wiosna","PoraDnia":"po poludniu","GdzieZlowione":"nad novigradem","GdzieSprzedane":"ostrorog","Waga":2000,"Cena":115}
+{"Nazwa":"losos","ShortName":"oliwkowosrebrzysta","Przyneta":"rybka","PoraRoku":"wczesna wiosna","PoraDnia":"rano","GdzieZlowione":"ostrorog","GdzieSprzedane":"nope","Waga":3900,"Cena":0}
+{"Nazwa":"losos","ShortName":"oliwkowosrebrzysta","Przyneta":"rybka","PoraRoku":"wczesna wiosna","PoraDnia":"rano","GdzieZlowione":"ostrorog","GdzieSprzedane":"nope","Waga":3800,"Cena":0}
+{"Nazwa":"losos","ShortName":"oliwkowosrebrzysta","Przyneta":"rybka","PoraRoku":"wczesna wiosna","PoraDnia":"rano","GdzieZlowione":"ostrorog","GdzieSprzedane":"nope","Waga":1500,"Cena":0}
+{"Nazwa":"losos","ShortName":"oliwkowosrebrzysta","Przyneta":"rybka","PoraRoku":"wczesna wiosna","PoraDnia":"rano","GdzieZlowione":"ostrorog","GdzieSprzedane":"nope","Waga":2500,"Cena":0}
+{"Nazwa":"wegorz","ShortName":"wezowata","Przyneta":"rybka","PoraRoku":"wczesna wiosna","PoraDnia":"rano","GdzieZlowione":"ostrorog","GdzieSprzedane":"nope","Waga":2200,"Cena":0}
+{"Nazwa":"kabryl","ShortName":"purpurowa","Przyneta":"rybka","PoraRoku":"wczesna wiosna","PoraDnia":"noc","GdzieZlowione":"novigrad(poludnie)","GdzieSprzedane":"nope","Waga":250,"Cena":0}
+{"Nazwa":"kabryl","ShortName":"purpurowa","Przyneta":"rybka","PoraRoku":"wczesna wiosna","PoraDnia":"noc","GdzieZlowione":"novigrad(poludnie)","GdzieSprzedane":"nope","Waga":270,"Cena":0}
+{"Nazwa":"???","ShortName":"plamiasta","Przyneta":"rybka","PoraRoku":"wczesna wiosna","PoraDnia":"noc","GdzieZlowione":"novigrad(port)","GdzieSprzedane":"nope","Waga":8800,"Cena":0}
+{"Nazwa":"kabryl","ShortName":"purpurowa","Przyneta":"rybka","PoraRoku":"wczesna wiosna","PoraDnia":"noc","GdzieZlowione":"novigrad(port)","GdzieSprzedane":"nope","Waga":270,"Cena":0}
+{"Nazwa":"???","ShortName":"niebieskosrebrzysta","Przyneta":"rybka","PoraRoku":"pozna wiosna","PoraDnia":"poludnie","GdzieZlowione":"nad novigradem","GdzieSprzedane":"nope","Waga":13000,"Cena":0}
+{"Nazwa":"???","ShortName":"niebieskosrebrzysta","Przyneta":"rybka","PoraRoku":"pozna wiosna","PoraDnia":"po poludniu","GdzieZlowione":"nad novigradem","GdzieSprzedane":"nope","Waga":14000,"Cena":0}
+{"Nazwa":"dorsz","ShortName":"jasnoszara","Przyneta":"rybka","PoraRoku":"pozna wiosna","PoraDnia":"po poludniu","GdzieZlowione":"nad novigradem","GdzieSprzedane":"nope","Waga":2300,"Cena":0}
+{"Nazwa":"dorsz","ShortName":"jasnoszara","Przyneta":"rybka","PoraRoku":"pozna wiosna","PoraDnia":"po poludniu","GdzieZlowione":"nad novigradem","GdzieSprzedane":"nope","Waga":3700,"Cena":0}
+{"Nazwa":"kabryl","ShortName":"purpurowa","Przyneta":"rybka","PoraRoku":"pozna wiosna","PoraDnia":"wieczor","GdzieZlowione":"novigrad(port)","GdzieSprzedane":"nope","Waga":460,"Cena":0}
+{"Nazwa":"???","ShortName":"plamiasta","Przyneta":"rybka","PoraRoku":"pozna wiosna","PoraDnia":"po poludniu","GdzieZlowione":"novigrad(port)","GdzieSprzedane":"nope","Waga":690,"Cena":0}
+{"Nazwa":"???","ShortName":"plamiasta","Przyneta":"rybka","PoraRoku":"pozna wiosna","PoraDnia":"po poludniu","GdzieZlowione":"novigrad(port)","GdzieSprzedane":"nope","Waga":420,"Cena":0}
+{"Nazwa":"mostelka","ShortName":"czerwonobrazowa","Przyneta":"rybka","PoraRoku":"pozna wiosna","PoraDnia":"po poludniu","GdzieZlowione":"novigrad(port)","GdzieSprzedane":"nope","Waga":700,"Cena":0}
+{"Nazwa":"mostelka","ShortName":"czerwonobrazowa","Przyneta":"rybka","PoraRoku":"pozna wiosna","PoraDnia":"po poludniu","GdzieZlowione":"novigrad(port)","GdzieSprzedane":"nope","Waga":470,"Cena":0}
+{"Nazwa":"dorsz","ShortName":"jasnoszara","Przyneta":"rybka","PoraRoku":"pozna wiosna","PoraDnia":"noc","GdzieZlowione":"nad novigradem","GdzieSprzedane":"nope","Waga":1900,"Cena":0}
+{"Nazwa":"???","ShortName":"niebieskosrebrzysta","Przyneta":"rybka","PoraRoku":"pozna wiosna","PoraDnia":"noc","GdzieZlowione":"nad novigradem","GdzieSprzedane":"nope","Waga":15000,"Cena":0}
+{"Nazwa":"???","ShortName":"niebieskosrebrzysta","Przyneta":"rybka","PoraRoku":"pozna wiosna","PoraDnia":"noc","GdzieZlowione":"nad novigradem","GdzieSprzedane":"nope","Waga":13000,"Cena":0}
+{"Nazwa":"dorsz","ShortName":"jasnoszara","Przyneta":"rybka","PoraRoku":"pozna wiosna","PoraDnia":"noc","GdzieZlowione":"nad novigradem","GdzieSprzedane":"nope","Waga":1900,"Cena":0}
+{"Nazwa":"dorsz","ShortName":"jasnoszara","Przyneta":"rybka","PoraRoku":"pozna wiosna","PoraDnia":"wieczor","GdzieZlowione":"nad novigradem","GdzieSprzedane":"nope","Waga":3100,"Cena":0}
+{"Nazwa":"dorsz","ShortName":"jasnoszara","Przyneta":"rybka","PoraRoku":"pozna wiosna","PoraDnia":"wieczor","GdzieZlowione":"nad novigradem","GdzieSprzedane":"nope","Waga":3000,"Cena":0}
+{"Nazwa":"wegorz","ShortName":"wezowata","Przyneta":"rybka","PoraRoku":"pozna wiosna","PoraDnia":"rano","GdzieZlowione":"ostrorog","GdzieSprzedane":"nope","Waga":2700,"Cena":0}
+{"Nazwa":"losos","ShortName":"oliwkowosrebrzysta","Przyneta":"rybka","PoraRoku":"pozna wiosna","PoraDnia":"rano","GdzieZlowione":"ostrorog","GdzieSprzedane":"nope","Waga":2300,"Cena":0}
+{"Nazwa":"losos","ShortName":"oliwkowosrebrzysta","Przyneta":"rybka","PoraRoku":"pozna wiosna","PoraDnia":"rano","GdzieZlowione":"ostrorog","GdzieSprzedane":"nope","Waga":3800,"Cena":0}
+{"Nazwa":"okon","ShortName":"pregowana","Przyneta":"rybka","PoraRoku":"pozna wiosna","PoraDnia":"noc","GdzieZlowione":"ostrorog","GdzieSprzedane":"nope","Waga":3900,"Cena":0}
+{"Nazwa":"okon","ShortName":"pregowana","Przyneta":"rybka","PoraRoku":"pozna wiosna","PoraDnia":"noc","GdzieZlowione":"ostrorog","GdzieSprzedane":"nope","Waga":4500,"Cena":0}
+{"Nazwa":"okon","ShortName":"pregowana","Przyneta":"rybka","PoraRoku":"pozna wiosna","PoraDnia":"noc","GdzieZlowione":"ostrorog","GdzieSprzedane":"nope","Waga":1400,"Cena":0}
+{"Nazwa":"losos","ShortName":"oliwkowosrebrzysta","Przyneta":"rybka","PoraRoku":"pozna wiosna","PoraDnia":"po poludniu","GdzieZlowione":"ostrorog","GdzieSprzedane":"nope","Waga":4200,"Cena":0}
+{"Nazwa":"losos","ShortName":"oliwkowosrebrzysta","Przyneta":"rybka","PoraRoku":"pozna wiosna","PoraDnia":"po poludniu","GdzieZlowione":"ostrorog","GdzieSprzedane":"nope","Waga":4600,"Cena":0}
+{"Nazwa":"jazgarz","ShortName":"oliwkowozielona","Przyneta":"robak","PoraRoku":"pozna wiosna","PoraDnia":"po poludniu","GdzieZlowione":"ostrorog","GdzieSprzedane":"nope","Waga":230,"Cena":0}
+{"Nazwa":"wegorz","ShortName":"wezowata","Przyneta":"robak","PoraRoku":"pozna wiosna","PoraDnia":"wieczor","GdzieZlowione":"novigrad(poludnie)","GdzieSprzedane":"nope","Waga":2400,"Cena":0}
+{"Nazwa":"wegorz","ShortName":"wezowata","Przyneta":"robak","PoraRoku":"pozna wiosna","PoraDnia":"wieczor","GdzieZlowione":"novigrad(poludnie)","GdzieSprzedane":"nope","Waga":2100,"Cena":0}
+{"Nazwa":"chelon","ShortName":"zielonkawoszara","Przyneta":"robak","PoraRoku":"pozna wiosna","PoraDnia":"noc","GdzieZlowione":"novigrad(port)","GdzieSprzedane":"nope","Waga":2100,"Cena":0}
+{"Nazwa":"chelon","ShortName":"zielonkawoszara","Przyneta":"robak","PoraRoku":"pozna wiosna","PoraDnia":"noc","GdzieZlowione":"novigrad(port)","GdzieSprzedane":"nope","Waga":1600,"Cena":0}
+{"Nazwa":"chelon","ShortName":"zielonkawoszara","Przyneta":"robak","PoraRoku":"pozna wiosna","PoraDnia":"noc","GdzieZlowione":"novigrad(port)","GdzieSprzedane":"nope","Waga":3700,"Cena":0}
+{"Nazwa":"jelec","ShortName":"stalowoszara","Przyneta":"robak","PoraRoku":"pozna wiosna","PoraDnia":"rano","GdzieZlowione":"oxenfurt","GdzieSprzedane":"nope","Waga":860,"Cena":0}
+{"Nazwa":"lin","ShortName":"zielonobrunatna","Przyneta":"robak","PoraRoku":"pozna wiosna","PoraDnia":"po poludniu","GdzieZlowione":"oxenfurt","GdzieSprzedane":"nope","Waga":4200,"Cena":0}
+{"Nazwa":"jelec","ShortName":"stalowoszara","Przyneta":"robak","PoraRoku":"pozna wiosna","PoraDnia":"rano","GdzieZlowione":"oxenfurt","GdzieSprzedane":"nope","Waga":480,"Cena":0}
+{"Nazwa":"jelec","ShortName":"stalowoszara","Przyneta":"robak","PoraRoku":"pozna wiosna","PoraDnia":"nope","GdzieZlowione":"grabowa buchta","GdzieSprzedane":"nope","Waga":120,"Cena":0}
+{"Nazwa":"pstrag","ShortName":"nakrapiana","Przyneta":"robak","PoraRoku":"pozna wiosna","PoraDnia":"nope","GdzieZlowione":"grabowa buchta","GdzieSprzedane":"nope","Waga":2000,"Cena":0}
+{"Nazwa":"okon","ShortName":"pregowana","Przyneta":"robak","PoraRoku":"pozna wiosna","PoraDnia":"nope","GdzieZlowione":"grabowa buchta","GdzieSprzedane":"nope","Waga":2000,"Cena":0}
+{"Nazwa":"lin","ShortName":"zielonobrunatna","Przyneta":"robak","PoraRoku":"pozna wiosna","PoraDnia":"nope","GdzieZlowione":"grabowa buchta","GdzieSprzedane":"nope","Waga":2500,"Cena":0}
+{"Nazwa":"pstrag","ShortName":"nakrapiana","Przyneta":"robak","PoraRoku":"pozna wiosna","PoraDnia":"nope","GdzieZlowione":"grabowa buchta","GdzieSprzedane":"nope","Waga":3100,"Cena":0}
+{"Nazwa":"lin","ShortName":"zielonobrunatna","Przyneta":"robak","PoraRoku":"pozna wiosna","PoraDnia":"nope","GdzieZlowione":"grabowa buchta","GdzieSprzedane":"nope","Waga":3900,"Cena":0}
+{"Nazwa":"pstrag","ShortName":"nakrapiana","Przyneta":"robak","PoraRoku":"pozna wiosna","PoraDnia":"nope","GdzieZlowione":"grabowa buchta","GdzieSprzedane":"nope","Waga":4400,"Cena":0}
+{"Nazwa":"okon","ShortName":"pregowana","Przyneta":"robak","PoraRoku":"pozna wiosna","PoraDnia":"nope","GdzieZlowione":"grabowa buchta","GdzieSprzedane":"nope","Waga":3100,"Cena":0}
+{"Nazwa":"losos","ShortName":"oliwkowosrebrzysta","Przyneta":"robak","PoraRoku":"pozna wiosna","PoraDnia":"nope","GdzieZlowione":"grabowa buchta","GdzieSprzedane":"nope","Waga":3200,"Cena":0}
+{"Nazwa":"okon","ShortName":"pregowana","Przyneta":"robak","PoraRoku":"pozna wiosna","PoraDnia":"nope","GdzieZlowione":"grabowa buchta","GdzieSprzedane":"nope","Waga":1900,"Cena":0}
+{"Nazwa":"jazgarz","ShortName":"oliwkowozielona","Przyneta":"robak","PoraRoku":"wczesne lato","PoraDnia":"po poludniu","GdzieZlowione":"ostrorog","GdzieSprzedane":"ostrorog","Waga":290,"Cena":110}
+{"Nazwa":"wegorz","ShortName":"wezowata","Przyneta":"robak","PoraRoku":"wczesne lato","PoraDnia":"po poludniu","GdzieZlowione":"ostrorog","GdzieSprzedane":"ostrorog","Waga":6300,"Cena":63}
+{"Nazwa":"kielb","ShortName":"niebieskawobrazowa","Przyneta":"robak","PoraRoku":"wczesne lato","PoraDnia":"po poludniu","GdzieZlowione":"ostrorog","GdzieSprzedane":"ostrorog","Waga":42,"Cena":190}
+{"Nazwa":"losos","ShortName":"oliwkowosrebrzysta","Przyneta":"robak","PoraRoku":"pozna wiosna","PoraDnia":"po poludniu","GdzieZlowione":"ostrorog","GdzieSprzedane":"ostrorog","Waga":3200,"Cena":124}
+{"Nazwa":"wegorz","ShortName":"wezowata","Przyneta":"robak","PoraRoku":"wczesne lato","PoraDnia":"po poludniu","GdzieZlowione":"ostrorog","GdzieSprzedane":"ostrorog","Waga":6200,"Cena":71}
+{"Nazwa":"losos","ShortName":"oliwkowosrebrzysta","Przyneta":"robak","PoraRoku":"pozna wiosna","PoraDnia":"wieczor","GdzieZlowione":"ostrorog","GdzieSprzedane":"ostrorog","Waga":3400,"Cena":110}
+{"Nazwa":"losos","ShortName":"oliwkowosrebrzysta","Przyneta":"robak","PoraRoku":"pozna wiosna","PoraDnia":"wieczor","GdzieZlowione":"ostrorog","GdzieSprzedane":"ostrorog","Waga":3300,"Cena":125}
+{"Nazwa":"skalnik","ShortName":"czerwonawa","Przyneta":"robak","PoraRoku":"pozna wiosna","PoraDnia":"rano","GdzieZlowione":"nad novigradem","GdzieSprzedane":"ostrorog","Waga":270,"Cena":133}
+{"Nazwa":"skalnik","ShortName":"czerwonawa","Przyneta":"robak","PoraRoku":"pozna wiosna","PoraDnia":"rano","GdzieZlowione":"nad novigradem","GdzieSprzedane":"ostrorog","Waga":330,"Cena":167}
+{"Nazwa":"skalnik","ShortName":"czerwonawa","Przyneta":"robak","PoraRoku":"pozna wiosna","PoraDnia":"rano","GdzieZlowione":"nad novigradem","GdzieSprzedane":"ostrorog","Waga":400,"Cena":115}
+{"Nazwa":"skalnik","ShortName":"czerwonawa","Przyneta":"robak","PoraRoku":"pozna wiosna","PoraDnia":"rano","GdzieZlowione":"nad novigradem","GdzieSprzedane":"ostrorog","Waga":220,"Cena":141}
+{"Nazwa":"strojnik","ShortName":"fioletowoniebieska","Przyneta":"robak","PoraRoku":"pozna wiosna","PoraDnia":"rano","GdzieZlowione":"nad novigradem","GdzieSprzedane":"ostrorog","Waga":6900,"Cena":180}
+{"Nazwa":"pagrus","ShortName":"szarosrebrzysta","Przyneta":"robak","PoraRoku":"pozna wiosna","PoraDnia":"rano","GdzieZlowione":"nad novigradem","GdzieSprzedane":"ostrorog","Waga":2800,"Cena":13}
+{"Nazwa":"losos","ShortName":"oliwkowosrebrzysta","Przyneta":"robak","PoraRoku":"pozna wiosna","PoraDnia":"po poludniu","GdzieZlowione":"novigrad(port)","GdzieSprzedane":"ostrorog","Waga":1800,"Cena":180}
+{"Nazwa":"koryfena","ShortName":"blekitnawozielona","Przyneta":"robak","PoraRoku":"pozna wiosna","PoraDnia":"po poludniu","GdzieZlowione":"novigrad(port)","GdzieSprzedane":"ostrorog","Waga":23000,"Cena":43}
+{"Nazwa":"???","ShortName":"czerwonobrazowa","Przyneta":"robak","PoraRoku":"pozna wiosna","PoraDnia":"wieczor","GdzieZlowione":"novigrad(port)","GdzieSprzedane":"ostrorog","Waga":710,"Cena":75}
+{"Nazwa":"karp","ShortName":"szarobrazowa","Przyneta":"robak","PoraRoku":"pozna wiosna","PoraDnia":"wieczor","GdzieZlowione":"novigrad(port)","GdzieSprzedane":"ostrorog","Waga":5100,"Cena":100}
+{"Nazwa":"karas","ShortName":"brazowawa","Przyneta":"robak","PoraRoku":"pozna wiosna","PoraDnia":"rano","GdzieZlowione":"novigrad(poludnie)","GdzieSprzedane":"ostrorog","Waga":2000,"Cena":142}
+{"Nazwa":"karas","ShortName":"brazowawa","Przyneta":"robak","PoraRoku":"pozna wiosna","PoraDnia":"rano","GdzieZlowione":"novigrad(poludnie)","GdzieSprzedane":"ostrorog","Waga":830,"Cena":130}
+{"Nazwa":"???","ShortName":"srebrnobrunatna","Przyneta":"robak","PoraRoku":"pozna wiosna","PoraDnia":"rano","GdzieZlowione":"novigrad(poludnie)","GdzieSprzedane":"ostrorog","Waga":3400,"Cena":124}
+{"Nazwa":"karas","ShortName":"brazowawa","Przyneta":"robak","PoraRoku":"pozna wiosna","PoraDnia":"rano","GdzieZlowione":"novigrad(poludnie)","GdzieSprzedane":"ostrorog","Waga":2600,"Cena":106}
+{"Nazwa":"???","ShortName":"srebrnobrunatna","Przyneta":"robak","PoraRoku":"pozna wiosna","PoraDnia":"rano","GdzieZlowione":"novigrad(poludnie)","GdzieSprzedane":"ostrorog","Waga":3500,"Cena":184}
+{"Nazwa":"???","ShortName":"srebrnobrunatna","Przyneta":"robak","PoraRoku":"pozna wiosna","PoraDnia":"rano","GdzieZlowione":"novigrad(poludnie)","GdzieSprzedane":"ostrorog","Waga":1000,"Cena":129}
+{"Nazwa":"???","ShortName":"srebrnobrunatna","Przyneta":"robak","PoraRoku":"pozna wiosna","PoraDnia":"rano","GdzieZlowione":"novigrad(poludnie)","GdzieSprzedane":"ostrorog","Waga":1600,"Cena":116}
+{"Nazwa":"???","ShortName":"srebrnobrunatna","Przyneta":"robak","PoraRoku":"pozna wiosna","PoraDnia":"po poludniu","GdzieZlowione":"novigrad(poludnie)","GdzieSprzedane":"ostrorog","Waga":1900,"Cena":202}
+{"Nazwa":"sieja","ShortName":"srebrzysta","Przyneta":"robak","PoraRoku":"pozna wiosna","PoraDnia":"noc","GdzieZlowione":"novigrad(poludnie)","GdzieSprzedane":"ostrorog","Waga":390,"Cena":174}
+{"Nazwa":"kielb","ShortName":"niebieskawobrazowa","Przyneta":"rybka","PoraRoku":"wczesna wiosna","PoraDnia":"noc","GdzieZlowione":"cisoux","GdzieSprzedane":"quenelles","Waga":120,"Cena":142}
+{"Nazwa":"pstrag","ShortName":"nakrapiana","Przyneta":"rybka","PoraRoku":"wczesna wiosna","PoraDnia":"noc","GdzieZlowione":"cisoux","GdzieSprzedane":"quenelles","Waga":2500,"Cena":188}
+{"Nazwa":"kielb","ShortName":"niebieskawobrazowa","Przyneta":"rybka","PoraRoku":"wczesna wiosna","PoraDnia":"noc","GdzieZlowione":"cisoux","GdzieSprzedane":"quenelles","Waga":72,"Cena":111}
+{"Nazwa":"pstrag","ShortName":"nakrapiana","Przyneta":"rybka","PoraRoku":"wczesna wiosna","PoraDnia":"noc","GdzieZlowione":"cisoux","GdzieSprzedane":"quenelles","Waga":5300,"Cena":125}
+{"Nazwa":"szczupak","ShortName":"ciemnozielona","Przyneta":"rybka","PoraRoku":"wczesna wiosna","PoraDnia":"noc","GdzieZlowione":"cisoux","GdzieSprzedane":"quenelles","Waga":1300,"Cena":135}
+{"Nazwa":"pstrag","ShortName":"nakrapiana","Przyneta":"rybka","PoraRoku":"wczesna wiosna","PoraDnia":"noc","GdzieZlowione":"cisoux","GdzieSprzedane":"quenelles","Waga":4100,"Cena":112}
+{"Nazwa":"pstrag","ShortName":"nakrapiana","Przyneta":"rybka","PoraRoku":"wczesna wiosna","PoraDnia":"noc","GdzieZlowione":"cisoux","GdzieSprzedane":"quenelles","Waga":5300,"Cena":156}
+{"Nazwa":"szczupak","ShortName":"ciemnozielona","Przyneta":"rybka","PoraRoku":"wczesna wiosna","PoraDnia":"noc","GdzieZlowione":"cisoux","GdzieSprzedane":"quenelles","Waga":2400,"Cena":148}
+{"Nazwa":"karas","ShortName":"brazowawa","Przyneta":"rybka","PoraRoku":"wczesna wiosna","PoraDnia":"rano","GdzieZlowione":"cisoux","GdzieSprzedane":"quenelles","Waga":1500,"Cena":168}
+{"Nazwa":"lin","ShortName":"zielonobrunatna","Przyneta":"robak","PoraRoku":"pozna wiosna","PoraDnia":"po poludniu","GdzieZlowione":"novigrad(port)","GdzieSprzedane":"ostrorog","Waga":1800,"Cena":176}
+{"Nazwa":"lin","ShortName":"zielonobrunatna","Przyneta":"robak","PoraRoku":"wczesna wiosna","PoraDnia":"rano","GdzieZlowione":"cisoux","GdzieSprzedane":"quenelles","Waga":1200,"Cena":176}
+{"Nazwa":"lin","ShortName":"zielonobrunatna","Przyneta":"robak","PoraRoku":"wczesna wiosna","PoraDnia":"rano","GdzieZlowione":"cisoux","GdzieSprzedane":"quenelles","Waga":1100,"Cena":164}
+{"Nazwa":"lin","ShortName":"zielonobrunatna","Przyneta":"robak","PoraRoku":"wczesna wiosna","PoraDnia":"rano","GdzieZlowione":"cisoux","GdzieSprzedane":"quenelles","Waga":1300,"Cena":116}
+{"Nazwa":"lin","ShortName":"zielonobrunatna","Przyneta":"robak","PoraRoku":"wczesna wiosna","PoraDnia":"rano","GdzieZlowione":"cisoux","GdzieSprzedane":"quenelles","Waga":3900,"Cena":102}
+{"Nazwa":"kielb","ShortName":"niebieskawobrazowa","Przyneta":"rybka","PoraRoku":"wczesna wiosna","PoraDnia":"rano","GdzieZlowione":"cisoux","GdzieSprzedane":"quenelles","Waga":150,"Cena":153}
+{"Nazwa":"jazgarz","ShortName":"oliwkowozielona","Przyneta":"rybka","PoraRoku":"wczesna wiosna","PoraDnia":"rano","GdzieZlowione":"cisoux","GdzieSprzedane":"quenelles","Waga":270,"Cena":96}
+{"Nazwa":"sum","ShortName":"wasata","Przyneta":"rybka","PoraRoku":"wczesna wiosna","PoraDnia":"rano","GdzieZlowione":"cisoux","GdzieSprzedane":"quenelles","Waga":14000,"Cena":55}
+{"Nazwa":"jazgarz","ShortName":"oliwkowozielona","Przyneta":"rybka","PoraRoku":"wczesna wiosna","PoraDnia":"rano","GdzieZlowione":"cisoux","GdzieSprzedane":"quenelles","Waga":410,"Cena":122}
+{"Nazwa":"kielb","ShortName":"niebieskawobrazowa","Przyneta":"rybka","PoraRoku":"wczesna wiosna","PoraDnia":"rano","GdzieZlowione":"cisoux","GdzieSprzedane":"quenelles","Waga":140,"Cena":143}
+{"Nazwa":"sum","ShortName":"wasata","Przyneta":"rybka","PoraRoku":"wczesna wiosna","PoraDnia":"rano","GdzieZlowione":"cisoux","GdzieSprzedane":"quenelles","Waga":4000,"Cena":106}
+{"Nazwa":"glowacica","ShortName":"zielonkawoszara","Przyneta":"rybka","PoraRoku":"wczesna wiosna","PoraDnia":"rano","GdzieZlowione":"cisoux","GdzieSprzedane":"quenelles","Waga":6700,"Cena":122}
+{"Nazwa":"sum","ShortName":"wasata","Przyneta":"rybka","PoraRoku":"wczesna wiosna","PoraDnia":"noc","GdzieZlowione":"cisoux","GdzieSprzedane":"quenelles","Waga":8200,"Cena":80}
+{"Nazwa":"jazgarz","ShortName":"oliwkowozielona","Przyneta":"rybka","PoraRoku":"wczesna wiosna","PoraDnia":"noc","GdzieZlowione":"cisoux","GdzieSprzedane":"quenelles","Waga":390,"Cena":100}
+{"Nazwa":"jazgarz","ShortName":"oliwkowozielona","Przyneta":"rybka","PoraRoku":"wczesna wiosna","PoraDnia":"noc","GdzieZlowione":"cisoux","GdzieSprzedane":"quenelles","Waga":270,"Cena":122}
+{"Nazwa":"glowacica","ShortName":"zielonkawoszara","Przyneta":"rybka","PoraRoku":"wczesna wiosna","PoraDnia":"noc","GdzieZlowione":"cisoux","GdzieSprzedane":"quenelles","Waga":3900,"Cena":198}
+{"Nazwa":"amur","ShortName":"ciemnozielona","Przyneta":"rybka","PoraRoku":"wczesna wiosna","PoraDnia":"rano","GdzieZlowione":"cisoux","GdzieSprzedane":"quenelles","Waga":5200,"Cena":88}
+{"Nazwa":"amur","ShortName":"ciemnozielona","Przyneta":"rybka","PoraRoku":"wczesna wiosna","PoraDnia":"rano","GdzieZlowione":"cisoux","GdzieSprzedane":"quenelles","Waga":1600,"Cena":109}
+{"Nazwa":"amur","ShortName":"ciemnozielona","Przyneta":"rybka","PoraRoku":"wczesna wiosna","PoraDnia":"rano","GdzieZlowione":"cisoux","GdzieSprzedane":"quenelles","Waga":14000,"Cena":98}
+{"Nazwa":"okon","ShortName":"pregowana","Przyneta":"rybka","PoraRoku":"wczesna wiosna","PoraDnia":"poludnie","GdzieZlowione":"cisoux","GdzieSprzedane":"quenelles","Waga":3600,"Cena":113}
+{"Nazwa":"pstrag","ShortName":"nakrapiana","Przyneta":"rybka","PoraRoku":"wczesna wiosna","PoraDnia":"wieczor","GdzieZlowione":"cisoux","GdzieSprzedane":"quenelles","Waga":3000,"Cena":197}
+{"Nazwa":"pstrag","ShortName":"nakrapiana","Przyneta":"rybka","PoraRoku":"wczesna wiosna","PoraDnia":"wieczor","GdzieZlowione":"cisoux","GdzieSprzedane":"quenelles","Waga":4400,"Cena":127}
+{"Nazwa":"certa","ShortName":"srebrzysta","Przyneta":"rybka","PoraRoku":"wczesna wiosna","PoraDnia":"noc","GdzieZlowione":"cisoux","GdzieSprzedane":"quenelles","Waga":1700,"Cena":186}
+{"Nazwa":"lin","ShortName":"zielonobrunatna","Przyneta":"rybka","PoraRoku":"wczesna wiosna","PoraDnia":"noc","GdzieZlowione":"cisoux","GdzieSprzedane":"quenelles","Waga":1600,"Cena":197}
+{"Nazwa":"bolen","ShortName":"blekitnawa","Przyneta":"rybka","PoraRoku":"wczesna wiosna","PoraDnia":"noc","GdzieZlowione":"cisoux","GdzieSprzedane":"quenelles","Waga":7300,"Cena":100}
+{"Nazwa":"karas","ShortName":"brazowawa","Przyneta":"rybka","PoraRoku":"wczesna wiosna","PoraDnia":"noc","GdzieZlowione":"cisoux","GdzieSprzedane":"quenelles","Waga":660,"Cena":100}
+{"Nazwa":"karas","ShortName":"brazowawa","Przyneta":"rybka","PoraRoku":"wczesna wiosna","PoraDnia":"noc","GdzieZlowione":"cisoux","GdzieSprzedane":"quenelles","Waga":1900,"Cena":162}
+{"Nazwa":"karas","ShortName":"brazowawa","Przyneta":"rybka","PoraRoku":"wczesna wiosna","PoraDnia":"noc","GdzieZlowione":"cisoux","GdzieSprzedane":"quenelles","Waga":1400,"Cena":120}
+{"Nazwa":"kielb","ShortName":"niebieskawobrazowa","Przyneta":"rybk[a","PoraRoku":"wczesna wiosna","PoraDnia":"noc","GdzieZlowione":"cisoux","GdzieSprzedane":"quenelles","Waga":130,"Cena":151}
+{"Nazwa":"kielb","ShortName":"niebieskawobrazowa","Przyneta":"rybka","PoraRoku":"wczesna wiosna","PoraDnia":"noc","GdzieZlowione":"cisoux","GdzieSprzedane":"quenelles","Waga":200,"Cena":108}
+{"Nazwa":"kielb","ShortName":"niebieskawobrazowa","Przyneta":"rybka","PoraRoku":"wczesna wiosna","PoraDnia":"noc","GdzieZlowione":"cisoux","GdzieSprzedane":"quenelles","Waga":88,"Cena":125}
+{"Nazwa":"sieja","ShortName":"srebrzysta","Przyneta":"rybka","PoraRoku":"wczesna wiosna","PoraDnia":"rano","GdzieZlowione":"cisoux","GdzieSprzedane":"quenelles","Waga":490,"Cena":102}
+{"Nazwa":"szczupak","ShortName":"ciemnozielona","Przyneta":"rybka","PoraRoku":"wczesna wiosna","PoraDnia":"rano","GdzieZlowione":"cisoux","GdzieSprzedane":"quenelles","Waga":3100,"Cena":103}
+{"Nazwa":"glowacica","ShortName":"zielonkawoszara","Przyneta":"rybka","PoraRoku":"wczesna wiosna","PoraDnia":"rano","GdzieZlowione":"marguilles","GdzieSprzedane":"quenelles","Waga":3700,"Cena":192}
+{"Nazwa":"glowacica","ShortName":"zielonkawoszara","Przyneta":"rybka","PoraRoku":"wczesna wiosna","PoraDnia":"rano","GdzieZlowione":"marguilles","GdzieSprzedane":"quenelles","Waga":4400,"Cena":169}
+{"Nazwa":"okon","ShortName":"pregowana","Przyneta":"rybka","PoraRoku":"pozna jesien","PoraDnia":"rano","GdzieZlowione":"obawa","GdzieSprzedane":"obawa","Waga":2800,"Cena":110}
+{"Nazwa":"mietus","ShortName":"brazowawa","Przyneta":"rybka","PoraRoku":"pozna jesien","PoraDnia":"rano","GdzieZlowione":"obawa","GdzieSprzedane":"obawa","Waga":9100,"Cena":91}
+{"Nazwa":"bolen","ShortName":"blekitnawa","Przyneta":"rybka","PoraRoku":"pozna jesien","PoraDnia":"noc","GdzieZlowione":"obok obawy","GdzieSprzedane":"obawa","Waga":3900,"Cena":153}
+{"Nazwa":"bolen","ShortName":"blekitnawa","Przyneta":"rybka","PoraRoku":"pozna jesien","PoraDnia":"noc","GdzieZlowione":"obok obawy","GdzieSprzedane":"obawa","Waga":10000,"Cena":106}
+{"Nazwa":"???","ShortName":"srebrnobrunatna","Przyneta":"robak","PoraRoku":"wczesna zima","PoraDnia":"rano","GdzieZlowione":"wyzima","GdzieSprzedane":"bialy most","Waga":2300,"Cena":217}
+{"Nazwa":"wegorz","ShortName":"wezowata","Przyneta":"robak","PoraRoku":"wczesna zima","PoraDnia":"po poludniu","GdzieZlowione":"wyzima","GdzieSprzedane":"bialy most","Waga":4300,"Cena":102}
+{"Nazwa":"mietus","ShortName":"brazowawa","Przyneta":"robak","PoraRoku":"wczesna zima","PoraDnia":"noc","GdzieZlowione":"obawa","GdzieSprzedane":"obawa","Waga":2800,"Cena":95}
+{"Nazwa":"karas","ShortName":"brazowawa","Przyneta":"robak","PoraRoku":"wczesna zima","PoraDnia":"noc","GdzieZlowione":"obawa","GdzieSprzedane":"obawa","Waga":1600,"Cena":103}
+{"Nazwa":"okon","ShortName":"pregowana","Przyneta":"robak","PoraRoku":"wczesna zima","PoraDnia":"noc","GdzieZlowione":"obawa","GdzieSprzedane":"obawa","Waga":3000,"Cena":115}
+{"Nazwa":"mietus","ShortName":"brazowawa","Przyneta":"robak","PoraRoku":"wczesna zima","PoraDnia":"noc","GdzieZlowione":"obawa","GdzieSprzedane":"obawa","Waga":4900,"Cena":103}
+{"Nazwa":"okon","ShortName":"pregowana","Przyneta":"robak","PoraRoku":"wczesna zima","PoraDnia":"noc","GdzieZlowione":"obawa","GdzieSprzedane":"obawa","Waga":2300,"Cena":98}
+{"Nazwa":"karpienczyk","ShortName":"czerwonozlota","Przyneta":"robak","PoraRoku":"wczesna zima","PoraDnia":"noc","GdzieZlowione":"nabrzeze scala","GdzieSprzedane":"nabrzeze scala","Waga":120,"Cena":142}
+{"Nazwa":"karpienczyk","ShortName":"czerwonozlota","Przyneta":"robak","PoraRoku":"wczesna zima","PoraDnia":"noc","GdzieZlowione":"nabrzeze scala","GdzieSprzedane":"nabrzeze scala","Waga":120,"Cena":150}
+{"Nazwa":"karp","ShortName":"szarobrazowa","Przyneta":"robak","PoraRoku":"wczesna zima","PoraDnia":"noc","GdzieZlowione":"nabrzeze scala","GdzieSprzedane":"nabrzeze scala","Waga":3100,"Cena":97}
+{"Nazwa":"karpienczyk","ShortName":"czerwonozlota","Przyneta":"robak","PoraRoku":"wczesna zima","PoraDnia":"noc","GdzieZlowione":"nabrzeze scala","GdzieSprzedane":"nabrzeze scala","Waga":200,"Cena":115}
+{"Nazwa":"karp","ShortName":"szarobrazowa","Przyneta":"robak","PoraRoku":"wczesna zima","PoraDnia":"noc","GdzieZlowione":"nabrzeze scala","GdzieSprzedane":"nabrzeze scala","Waga":6000,"Cena":87}
+{"Nazwa":"karpienczyk","ShortName":"czerwonozlota","Przyneta":"robak","PoraRoku":"wczesna zima","PoraDnia":"noc","GdzieZlowione":"nabrzeze scala","GdzieSprzedane":"nabrzeze scala","Waga":170,"Cena":112}
+{"Nazwa":"karpienczyk","ShortName":"czerwonozlota","Przyneta":"robak","PoraRoku":"wczesna zima","PoraDnia":"noc","GdzieZlowione":"nabrzeze scala","GdzieSprzedane":"nabrzeze scala","Waga":68,"Cena":118}
+{"Nazwa":"karpienczyk","ShortName":"czerwonozlota","Przyneta":"robak","PoraRoku":"wczesna zima","PoraDnia":"noc","GdzieZlowione":"nabrzeze scala","GdzieSprzedane":"nabrzeze scala","Waga":190,"Cena":116}
+{"Nazwa":"glowacz","ShortName":"szara","Przyneta":"robak","PoraRoku":"wczesna zima","PoraDnia":"wieczor","GdzieZlowione":"rzeka przy dolinie","GdzieSprzedane":"stare buki","Waga":1200,"Cena":142}
+{"Nazwa":"lipien","ShortName":"srebrzystobiala","Przyneta":"robak","PoraRoku":"wczesna zima","PoraDnia":"wieczor","GdzieZlowione":"rzeka przy dolinie","GdzieSprzedane":"stare buki","Waga":1300,"Cena":137}
+{"Nazwa":"mietus","ShortName":"brazowawa","Przyneta":"robak","PoraRoku":"wczesna zima","PoraDnia":"wieczor","GdzieZlowione":"rzeka przy dolinie","GdzieSprzedane":"stare buki","Waga":12000,"Cena":96}
+{"Nazwa":"mietus","ShortName":"brazowawa","Przyneta":"robak","PoraRoku":"wczesna zima","PoraDnia":"wieczor","GdzieZlowione":"rzeka przy dolinie","GdzieSprzedane":"stare buki","Waga":3800,"Cena":151}
+{"Nazwa":"jelec","ShortName":"stalowoszara","Przyneta":"robak","PoraRoku":"wczesna zima","PoraDnia":"noc","GdzieZlowione":"rzeka przy dolinie","GdzieSprzedane":"stare buki","Waga":760,"Cena":108}
+{"Nazwa":"lipien","ShortName":"srebrzystobiala","Przyneta":"robak","PoraRoku":"wczesna zima","PoraDnia":"noc","GdzieZlowione":"rzeka przy dolinie","GdzieSprzedane":"stare buki","Waga":2300,"Cena":135}
+{"Nazwa":"lipien","ShortName":"srebrzystobiala","Przyneta":"robak","PoraRoku":"wczesna zima","PoraDnia":"wieczor","GdzieZlowione":"rzeka przy dolinie","GdzieSprzedane":"stare buki","Waga":1700,"Cena":184}
+{"Nazwa":"szczupak","ShortName":"ciemnozielony","Przyneta":"rybka","PoraRoku":"wczesna zima","PoraDnia":"noc","GdzieZlowione":"ostrorog","GdzieSprzedane":"nope","Waga":2400,"Cena":0}
+{"Nazwa":"sum","ShortName":"wasata","Przyneta":"rybka","PoraRoku":"wczesna zima","PoraDnia":"noc","GdzieZlowione":"ostrorog","GdzieSprzedane":"nope","Waga":8400,"Cena":0}
+{"Nazwa":"sum","ShortName":"wasata","Przyneta":"rybka","PoraRoku":"wczesna zima","PoraDnia":"noc","GdzieZlowione":"ostrorog","GdzieSprzedane":"nope","Waga":5900,"Cena":0}
+{"Nazwa":"losos","ShortName":"oliwkowosrebrzysta","Przyneta":"rybka","PoraRoku":"wczesna zima","PoraDnia":"noc","GdzieZlowione":"ostrorog","GdzieSprzedane":"nope","Waga":2400,"Cena":0}
+{"Nazwa":"szczupak","ShortName":"ciemnozielony","Przyneta":"rybka","PoraRoku":"wczesna zima","PoraDnia":"noc","GdzieZlowione":"ostrorog","GdzieSprzedane":"nope","Waga":2300,"Cena":0}
+{"Nazwa":"sum","ShortName":"wasata","Przyneta":"rybka","PoraRoku":"wczesna zima","PoraDnia":"noc","GdzieZlowione":"ostrorog","GdzieSprzedane":"nope","Waga":3100,"Cena":0}
+{"Nazwa":"losos","ShortName":"oliwkowosrebrzysta","Przyneta":"rybka","PoraRoku":"wczesna zima","PoraDnia":"rano","GdzieZlowione":"ostrorog","GdzieSprzedane":"nope","Waga":3900,"Cena":0}
+{"Nazwa":"pstrag","ShortName":"nakrapiana","Przyneta":"robak","PoraRoku":"wczesna zima","PoraDnia":"wieczor","GdzieZlowione":"rzeka przy dolinie","GdzieSprzedane":"nope","Waga":5100,"Cena":0}
+{"Nazwa":"pstrag","ShortName":"nakrapiana","Przyneta":"robak","PoraRoku":"wczesna zima","PoraDnia":"wieczor","GdzieZlowione":"rzeka przy dolinie","GdzieSprzedane":"nope","Waga":4800,"Cena":0}
+{"Nazwa":"wegorz","ShortName":"wezowata","Przyneta":"robak","PoraRoku":"wczesna zima","PoraDnia":"noc","GdzieZlowione":"rzeka przy dolinie","GdzieSprzedane":"nope","Waga":1800,"Cena":0}
+{"Nazwa":"sum","ShortName":"wasata","Przyneta":"rybka","PoraRoku":"wczesne lato","PoraDnia":"po poludniu","GdzieZlowione":"ubersreik","GdzieSprzedane":"bogenfahen","Waga":4100,"Cena":64}
+{"Nazwa":"wegorz","ShortName":"wezowata","Przyneta":"rybka","PoraRoku":"wczesne lato","PoraDnia":"po poludniu","GdzieZlowione":"ubersreik","GdzieSprzedane":"bogenfahen","Waga":4100,"Cena":76}
+{"Nazwa":"karas","ShortName":"brazowawa","Przyneta":"robak","PoraRoku":"wczesne lato","PoraDnia":"noc","GdzieZlowione":"cisoux","GdzieSprzedane":"quenelles","Waga":1100,"Cena":214}
+{"Nazwa":"karas","ShortName":"brazowawa","Przyneta":"robak","PoraRoku":"wczesne lato","PoraDnia":"noc","GdzieZlowione":"cisoux","GdzieSprzedane":"quenelles","Waga":1700,"Cena":97}
+{"Nazwa":"karas","ShortName":"brazowawa","Przyneta":"robak","PoraRoku":"wczesne lato","PoraDnia":"noc","GdzieZlowione":"cisoux","GdzieSprzedane":"quenelles","Waga":1700,"Cena":125}
+{"Nazwa":"glowacz","ShortName":"szara","Przyneta":"kulka","PoraRoku":"wczesne lato","PoraDnia":"rano","GdzieZlowione":"cisoux","GdzieSprzedane":"quenelles","Waga":700,"Cena":127}
+{"Nazwa":"karas","ShortName":"brazowawa","Przyneta":"kulka","PoraRoku":"wczesne lato","PoraDnia":"po poludniu","GdzieZlowione":"cisoux","GdzieSprzedane":"quenelles","Waga":1500,"Cena":117}
+{"Nazwa":"glowacz","ShortName":"szara","Przyneta":"kulka","PoraRoku":"wczesne lato","PoraDnia":"po poludniu","GdzieZlowione":"cisoux","GdzieSprzedane":"quenelles","Waga":390,"Cena":192}
+{"Nazwa":"glowacz","ShortName":"szara","Przyneta":"rybak","PoraRoku":"wczesne lato","PoraDnia":"po poludniu","GdzieZlowione":"cisoux","GdzieSprzedane":"quenelles","Waga":540,"Cena":143}
+{"Nazwa":"losos","ShortName":"oliwkowosrebrzysta","Przyneta":"rybka","PoraRoku":"pozna zima","PoraDnia":"polnoc","GdzieZlowione":"novograd(poludnie)","GdzieSprzedane":"nope","Waga":0,"Cena":0}
+{"Nazwa":"losos","ShortName":"oliwkowosrebrzysta","Przyneta":"rybka","PoraRoku":"pozna zima","PoraDnia":"rano","GdzieZlowione":"novograd(poludnie)","GdzieSprzedane":"nope","Waga":0,"Cena":0}

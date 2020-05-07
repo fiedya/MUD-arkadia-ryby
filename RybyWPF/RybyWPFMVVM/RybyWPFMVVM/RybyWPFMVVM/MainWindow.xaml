@@ -1,0 +1,126 @@
+﻿<Window x:Class="RybyWPFMVVM.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RybyWPFMVVM"
+        xmlns:vm ="clr-namespace:RybyWPFMVVM.ViewModel"
+        xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="800" Width="1200"
+        ResizeMode="NoResize">
+
+    <Window.Resources>
+        <vm:Linker x:Key="linker"/>
+        <vm:IntToStringConverter x:Key="intTostringConverter"/>
+    </Window.Resources>
+    
+    <Grid DataContext="{StaticResource linker}">
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="7*"/>
+        </Grid.ColumnDefinitions>
+
+        <StackPanel  Grid.Column="0" Background="LightGreen" Margin="10,10,10,10">
+
+            <StackPanel Orientation="Horizontal">
+                <TextBlock x:Name="nameN" Margin="10,5,0,5" Height="20" Width="50"
+                  HorizontalAlignment="Left" VerticalAlignment="Top"
+                  Foreground="darkviolet" TextAlignment="Left" FontSize="15"
+                       FontStyle="Oblique"
+                  Text="Nazwa:"/>
+
+                <TextBox  x:Name="name" Margin="10,5,0,5" Height="20" Width="170"
+                  Background="darkviolet" TextAlignment="Center"
+                      Foreground="White"
+                  Text="{Binding Path=Age, Mode=TwoWay}"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock x:Name="shortN" Margin="10,5,0,5" Height="20" Width="50"
+                  HorizontalAlignment="Left" VerticalAlignment="Top"
+                  Foreground="darkviolet" TextAlignment="Left" FontSize="15"
+                       FontStyle="Oblique"
+                  Text="Short:"/>
+
+                <TextBox  x:Name="short" Margin="10,5,0,5" Height="20" Width="170"
+                  Background="darkviolet" TextAlignment="Center"
+                      Foreground="White"
+                  Text="{Binding Path=Age, Mode=TwoWay}"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock x:Name="przynetaN" Margin="10,5,0,5" Height="20" Width="65"
+                  HorizontalAlignment="Left" VerticalAlignment="Top"
+                  Foreground="darkviolet" TextAlignment="Left" FontSize="15"
+                       FontStyle="Oblique"
+                  Text="Przyneta:"/>
+
+                <ComboBox x:Name="przyneta" Height="20" Width="155" Margin="10,5,0,5">
+                    <ComboBoxItem>Rybka</ComboBoxItem>
+                    <ComboBoxItem IsSelected="True">Robak</ComboBoxItem>
+                    <ComboBoxItem>Kulka</ComboBoxItem>
+                </ComboBox>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal">
+                <TextBlock x:Name="poraN" Margin="10,5,0,5" Height="20" Width="75"
+                  HorizontalAlignment="Left" VerticalAlignment="Top"
+                  Foreground="darkviolet" TextAlignment="Left" FontSize="15"
+                       FontStyle="Oblique"
+                  Text="Pora roku:"/>
+
+                <ComboBox x:Name="pora" Height="20" Width="145" Margin="10,5,0,5"
+                          ItemsSource="{Binding Path=PoryRoku}"
+                            SelectedItem="{Binding Path =nope}" >
+                </ComboBox>
+            </StackPanel>
+
+
+
+        </StackPanel>
+
+        <StackPanel Grid.Column="1" Background="LightGreen" Margin="10,10,10,10">
+            <TextBlock x:Name="lista" Margin="5,0,5,0" Height="30" Width="100"
+                  HorizontalAlignment="Center" VerticalAlignment="Top"
+                  Foreground="darkviolet" TextAlignment="Center" FontSize="23"
+                       FontStyle="Oblique"
+                  Text="Lista:"/>
+            <ListBox ItemsSource="{Binding Path= Oc}"
+                     SelectedItem="{Binding CurrentPerson, Mode=TwoWay}"
+                     FontSize="13"
+                        ScrollViewer.VerticalScrollBarVisibility="Visible"
+                     Background="LightGreen"
+                     Height="700"
+                     ScrollViewer.CanContentScroll="True"    
+                     >
+
+                    <ListBox.ItemTemplate>
+                        <DataTemplate>
+                            <WrapPanel>
+                                <TextBlock Text="Nazwa: " />
+                                <TextBlock Text="{Binding Nazwa}" FontWeight="Bold" />
+                                <TextBlock Text=", Short: " />
+                                <TextBlock Text="{Binding ShortName}" FontWeight="Bold" />
+                                <TextBlock Text=", Pora: " />
+                                <TextBlock Text="{Binding PoraRoku}" FontWeight="Bold" />
+                                <TextBlock Text=", Czas: " />
+                                <TextBlock Text="{Binding PoraDnia}" FontWeight="Bold" />
+                                <TextBlock Text=", Gdzie: " />
+                                <TextBlock Text="{Binding GdzieZlowione}" FontWeight="Bold" />
+                                <TextBlock Text=", Sprzedaz: " />
+                                <TextBlock Text="{Binding GdzieSprzedane}" FontWeight="Bold" />
+                        </WrapPanel>
+                        </DataTemplate>
+                    </ListBox.ItemTemplate>
+
+                </ListBox>
+
+
+
+            </StackPanel>
+
+
+
+
+    </Grid>
+</Window>
